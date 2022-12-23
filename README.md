@@ -58,21 +58,17 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 
 11. MENG F, LIU L, PENG M, WANG Z, WANG C, **ZHAO Y** 2015. Genetic diversity and population structure analysis in wild strawberry (Fragaria nubicola L.) from Motuo in Tibet Plateau based on simple sequence repeats (SSRs). ***Biochemical Systematics and Ecology*** [J], 63: 113-118. (**IF=1.381**)
 
-12. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates
-in CaCA gene family of Capsella. 2020. ***Journal of Fudan University*** (Natural Science) [J], 59,
-No.1:1-31 (In Chinese)
+12. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates in CaCA gene family of Capsella. 2020. ***Journal of Fudan University*** (Natural Science) [J], 59, No.1:1-31 (In Chinese)
 
 ### Porjects  
 <p align = "justify">
 Presided over or participated in the National Foundation, Guizhou University high-level talent start-up funding projects, etc. 
 </p>
 ### Collaborators
-<p align = "justify">
+
 [程琳](http://sky.xynu.edu.cn/info/1012/2600.htm) 副教授，信阳师范学院
 
 [黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
-	
-</p>
 
 ### Students
 
