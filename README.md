@@ -5,29 +5,30 @@
 ### Curriculum Vitae ([中文版本](Chinese.md))
 
 
-Yiyong Zhao, male, born in 1991, is a professor, master's degree advisor, and a member of the CPC. He was selected as a [Distinguished Professor Class A](GZU_Recruitment.html) in 2022 of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/). <p align = "justify"> I mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers including *Nature*, *Molecular Plant* and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding, and also laying the foundation for genomics in molecular cultivation breeding. He is a reviewer for *Molecular Plant*, *Horticulture Research*, *Frontiers Molecular Biosciences*, *Molecular Phylogenetics and Evolution*, *Journal of Systematics and Evolution*, etc.
-</p>
+Yiyong Zhao, male, born in 1991, is a professor, master's degree advisor, and a member of the CPC. He was selected as a [Distinguished Professor Class A](GZU_Recruitment.html) in 2022 of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/). 
+<p align = "justify"> 
+I mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers including *Nature*, *Molecular Plant* and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding, and also laying the foundation for genomics in molecular cultivation breeding. He is a reviewer for *Molecular Plant*, *Horticulture Research*, *Frontiers Molecular Biosciences*, *Molecular Phylogenetics and Evolution*, *Journal of Systematics and Evolution*, etc.</p>
 
 Mobile: +86-13262259838  
 Email: fudan@yiyongzhao.com    
 Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Guiyang City, Guizhou Province, China, 550025
 				
 ### Education
-<p align = "justify">
+
 2016.06 ~ 2021.06：Ph.D.in Bioinformatcis, School of Life Sciences, Fudan University, China 
-
+<p align = "justify">
 2019.09 ~ 2020.10：China Scholarship Council (CSC) Joint Ph.D. Program, Department of Biology, Pennsylvania State University, USA
-
+</p>
 2012.06 ~ 2016.06：Bachelor of Science in Agriculture (*summa cum laude*), Northeast Forestry University, China
 
 2013.06 ~ 2014.01：CSC Joint Bachelor Program, Kangwon National University, South Korea.
-</p>
+
 ### Work Experience
-<p align = "justify">
+
 2022.10 ~ present: Distinguished Professor (Class A) at Guizhou University, China
 
 2021.07 ~ 2022.08: Bioinformatics & AI Scientist, at [Drug Farm Co. Ltd](https://drug-farm.com), Shanghai
-</p>
+	
 ### Research Interests
 <p align = "justify">
 Biological big data mining in genomics, comparative genomics and bioinformatics are used to study the evolution and function of genes, genome assembly, species evolution, whole genome duplications, fate of gene duplication, origin and evolution of nitrogen fixation; reconstruct angiosperm phylogeny, especially the economically important families of angiosperms, such as Rosids, Fabaceae, etc.;
