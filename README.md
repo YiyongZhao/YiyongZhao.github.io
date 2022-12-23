@@ -74,6 +74,11 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 Tao Li (Graduated student, Develop evolutionary developmental genomics algorithms and software, hobby photography cycling programming, good at ps image processing and pr video processing, outgoing lively and cheerful personality, but social fear.)
 
 <div align="center">
+<img src="Photos/HaoYin.jpg" width = "132" height = "192">
+</div> 
+Hao Yin (Graduated student, Research Interests:Comparative Genomics of Poaceae , I am cheerful, positive and have good teamwork spirit. My favorite sports are table tennis and badminton.)
+
+<div align="center">
 <img src="Photos/LinshuangTang.jpg" width = "132" height = "192">  
 </div> 
 Linshuang Tang(Graduated student, Research Interests:Comparative Genomics, Personal Quotes: People with self-confidence can turn smallness into greatness and mediocrity into magic; they can do a little more than nothing.)
