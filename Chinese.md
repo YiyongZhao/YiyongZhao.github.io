@@ -81,6 +81,11 @@ No.1:1-31. (In Chinese)
 李涛(硕士研究生, 研究方向:开发进化发育组学算法和软件，爱好摄影骑车编程，擅长ps图像处理和pr视频处理，性格外向活泼开朗，但社恐。)
 
 <div align="center">
+<img src="Photos/HaoYin.jpg" width = "132" height = "192">
+</div> 
+尹豪(硕士研究生, 研究方向:禾本科的比较基因组学。)
+
+<div align="center">
 <img src="Photos/LinshuangTang.jpg" width = "132" height = "192">  
 </div> 
 唐林霜(硕士研究生, 研究方向:比较基因组学，个人名言：有自信的人，可以化渺小为伟大，化平庸为神奇；比什么都不做多做一点点。)
