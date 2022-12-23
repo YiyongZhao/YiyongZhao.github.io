@@ -4,7 +4,7 @@
 
 ### 个人简历 ([English Version](README.md))  
 
-赵义勇，男，1991年生，教授, 硕士研究生导师，中共党员，2016-2021复旦大学硕博连读, 2020年国家公派至美国宾夕法尼亚州立大学进行联合培养博士生。2021年7月获复旦大学生物信息学理学博士学位。曾任职于上海药物牧场担任生物信息学&人工智能科学家。2022年入选贵州大学世界双一流学科高层次人才特聘教授A类(https://www.gzu.edu.cn/2020/0326/c271a132835/pagem.html)，主要从事作物重要农艺性状基因挖掘研究，主持或参与国家基金、贵州大学高层次人才启动经费项目等，近五年以第一作者或共同第一作者在*Nature*、*Molecular Plant*等顶尖期刊上发表10余篇SCI论文。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。担任*Molecular Plant*、*Horticulture Research*、*Frontiers Molecular Biosciences*、*Molecular Phylogenetics and Evolution*、*Journal of Systematics and Evolution*等期刊审稿人。
+赵义勇，男，1991年生，教授, 硕士研究生导师，中共党员，2016-2021复旦大学硕博连读, 2020年国家公派至美国宾夕法尼亚州立大学进行联合培养博士生。2021年7月获复旦大学生物信息学理学博士学位。曾任职于上海药物牧场担任生物信息学&人工智能科学家。2022年入选贵州大学世界双一流学科高层次人才[特聘教授A类](https://www.gzu.edu.cn/2020/0326/c271a132835/pagem.html)，主要从事作物重要农艺性状基因挖掘研究，主持或参与国家基金、贵州大学高层次人才启动经费项目等，近五年以第一作者或共同第一作者在*Nature*、*Molecular Plant*等顶尖期刊上发表10余篇SCI论文。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。担任*Molecular Plant*、*Horticulture Research*、*Frontiers Molecular Biosciences*、*Molecular Phylogenetics and Evolution*、*Journal of Systematics and Evolution*等期刊审稿人。
 
 邮箱：fudan@yiyongzhao.com  
 手机/微信：13262259838   
