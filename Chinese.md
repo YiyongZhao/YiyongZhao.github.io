@@ -48,19 +48,19 @@
 
 6. GUO J, XU W, HU Y, HUANG J, **ZHAO Y**, ZHANG L, HUANG C-H, MA H 2020. Phylotranscriptomics in Cucurbitaceae reveal multiple whole genome duplications and key morphological and molecular innovations. ***Molecular Plant*** [J], 13: 1-17. (**IF=13.164**)
 
-7. HE C, CHEN Z, **ZHAO Y**, YU Y, WANG H, WANG C, QI J, WANG Y 2020. Histone demethylase IBM1-mediated meiocyte gene expression ensures meiotic chromosome synapsis and recombination.2022. ***Plos Genetics*** [J]. (**IF= 5.917**)
+7. HE C, CHEN Z, **ZHAO Y**, YU Y, WANG H, WANG C, QI J, WANG Y 2022 Histone demethylase IBM1-mediated meiocyte gene expression ensures meiotic chromosome synapsis and recombination.2022. ***Plos Genetics*** [J], 18(2): e1010041.(**IF= 5.917**)
 
 8. LIANG Y, WANG S, ZHAO C, MA X, **ZHAO Y**, SHAO J, LI Y, LI H, SONG H, MA H, LI H, ZHANG B, ZHANG L 2020. Transcriptional regulation of bark freezing tolerance in apple (*Malus domestica* Borkh.). ***Horticulture Research*** [J], 7: 205. (**IF= 6.072**)
 
 9. MENG Z, HAN J, LIN Y, **ZHAO Y**, LIN Q, MA X, WANG J, ZHANG M, ZHANG L, YANG Q, WANG K 2020. Characterization of a Saccharum spontaneum with a basic chromosome number of x = 10 provides new insights on genome evolution in genus Saccharum. ***Theoretical and Applied Genetics*** [J], 133: 187-199. (**IF= 5.699**)
 
-10. HUANG W, ZHANG L, COLUMBUS J T, HU Y, **ZHAO Y**, TANG L, GUO Z, CHEN W, MCKAIN M, BARTLETT M, HUANG C-H, LI D-Z, GE S, KELLOGG E A, HONG M 2021. A Well-supported nuclear phylogeny of Poaceae and implications for the evolution of C4 photosynthesis. ***Molecular Plant***[J]. (**IF=13.164**)
+10. HUANG W, ZHANG L, COLUMBUS J T, HU Y, **ZHAO Y**, TANG L, GUO Z, CHEN W, MCKAIN M, BARTLETT M, HUANG C-H, LI D-Z, GE S, KELLOGG E A, HONG M 2021. A Well-supported nuclear phylogeny of Poaceae and implications for the evolution of C4 photosynthesis. ***Molecular Plant***[J], 15(4): 755-777. (**IF=13.164**)
 
 11. MENG F, LIU L, PENG M, WANG Z, WANG C, **ZHAO Y** 2015. Genetic diversity and population structure analysis in wild strawberry (Fragaria nubicola L.) from Motuo in Tibet Plateau based on simple sequence repeats (SSRs). ***Biochemical Systematics and Ecology*** [J], 63: 113-118. (**IF=1.381**)
 
 12. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates
 in CaCA gene family of Capsella. 2020. ***Journal of Fudan University*** (Natural Science) [J], 59,
-No.1:1-31 (In Chinese)
+No.1:1-31. (In Chinese)
 
 ### 招生意向
 <p align = "justify">
