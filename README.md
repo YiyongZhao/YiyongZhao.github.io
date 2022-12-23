@@ -22,7 +22,8 @@ Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Huaxi 
 
 ### Work Experience
 
-2022.10 ~ present: Distinguished Professor (Class A) at Guizhou University, China  
+2022.10 ~ present: Distinguished Professor (Class A) at Guizhou University, China
+
 2021.07 ~ 2022.08: Bioinformatics & AI Scientist, at Drug Farm Co. Ltd, Shanghai [Drug Farm](https://drug-farm.com)
 
 ### Research Interests
@@ -65,6 +66,7 @@ Presided over or participated in the National Foundation, Guizhou University hig
 ### Collaborators
 
 [程琳](http://sky.xynu.edu.cn/info/1012/2600.htm) 副教授，信阳师范学院
+
 [黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
 
 ### Students
