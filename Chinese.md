@@ -83,7 +83,7 @@ No.1:1-31. (In Chinese)
 <div align="center">
 <img src="Photos/HaoYin.jpg" width = "132" height = "192">
 </div> 
-尹豪(硕士研究生, 研究方向:禾本科的比较基因组学。)
+尹豪(硕士研究生, 研究方向:禾本科的比较基因组学。本人性格开朗，积极向上，具有良好的团队合作精神。喜欢的运动有乒乓球和羽毛球。)
 
 <div align="center">
 <img src="Photos/LinshuangTang.jpg" width = "132" height = "192">  
