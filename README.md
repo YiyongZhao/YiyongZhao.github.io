@@ -3,6 +3,7 @@
 </div>  
 
 ### Curriculum Vitae ([中文版本](Chinese.md))
+
 Yiyong Zhao (Ph.D, Professor) is working in College of Agriculture, [Guizhou University](http://www.gzu.edu.cn/en/), China  
 
 Mobile: +86-13262259838  
@@ -12,8 +13,11 @@ Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Huaxi 
 ### Education
 
 2016.06 ~ 2021.06：Ph.D.in Bioinformatcis, School of Life Sciences, Fudan University, China 
+
 2019.09 ~ 2020.10：China Scholarship Council (CSC) Joint Ph.D. Program, Department of Biology, Pennsylvania State University, USA
+
 2012.06 ~ 2016.06：Bachelor of Science in Agriculture (*summa cum laude*), Northeast Forestry University, China
+
 2013.06 ~ 2014.01：CSC Joint Bachelor Program, Kangwon National University, South Korea.
 
 ### Work Experience
@@ -22,6 +26,7 @@ Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Huaxi 
 2021.07 ~ 2022.08: Bioinformatics & AI Scientist, at Drug Farm Co. Ltd, Shanghai [Drug Farm](https://drug-farm.com)
 
 ### Research Interests
+
 Biological big data mining in genomics, comparative genomics and bioinformatics are used to study the evolution and function of genes, genome assembly, species evolution, whole genome duplications, fate of gene duplication, origin and evolution of nitrogen fixation; reconstruct angiosperm phylogeny, especially the economically important families of angiosperms, such as Rosids, Fabaceae, etc.;
 
 ### Publications (# Co-first author, * Corresponding author)
@@ -54,6 +59,7 @@ No.1:1-31 (In Chinese)
 
 
 ### Porjects  
+
 Presided over or participated in the National Foundation, Guizhou University high-level talent start-up funding projects, etc. 
 
 ### Collaborators
@@ -62,6 +68,7 @@ Presided over or participated in the National Foundation, Guizhou University hig
 [黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
 
 ### Students
+
 <div align="center">
 <img src="miaoyanming.png" width = "132" height = "192"> 
 </div>  
