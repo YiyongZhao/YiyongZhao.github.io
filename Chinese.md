@@ -1,5 +1,5 @@
 <div align="center">
-<img src="me.jpg" width = "176" height = "256"> 
+<img src="YiyongZhao.jpg" width = "176" height = "256"> 
 </div> 
 ### 个人简历 ([English Version](README.md))  
 
