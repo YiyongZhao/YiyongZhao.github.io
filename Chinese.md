@@ -3,6 +3,7 @@
 </div> 
 
 ### 个人简历 ([English Version](README.md))  
+
 赵义勇，男，1991年生，教授, 硕士研究生导师，中共党员，2016-2021复旦大学硕博连读, 2020年国家公派至美国宾夕法尼亚州立大学进行联合培养博士生。2021年7月获复旦大学生物信息学理学博士学位。曾任职于上海药物牧场担任生物信息学&人工智能科学家。2022年入选贵州大学世界双一流学科高层次人才特聘教授A类(https://www.gzu.edu.cn/2020/0326/c271a132835/pagem.html)，主要从事作物重要农艺性状基因挖掘研究，主持或参与国家基金、贵州大学高层次人才启动经费项目等，近五年以第一作者或共同第一作者在*Nature*、*Molecular Plant*等顶尖期刊上发表10余篇SCI论文。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。担任*Molecular Plant*、*Horticulture Research*、*Frontiers Molecular Biosciences*、*Molecular Phylogenetics and Evolution*、*Journal of Systematics and Evolution*等期刊审稿人。
 
 邮箱：fudan@yiyongzhao.com  
@@ -11,22 +12,33 @@
 人生格言：Head in the Clouds, Feet on the Ground. 
 
 ### 研究方向
+
 1. 农艺性状基因挖掘研究
 2. 生物大数据挖掘
 3. 多组学数据统计方法和程序开发
  
 ### 招生意向
+
 拟招收研究生和科研助理，从事植物生物信息学分析：生信软件开发，多组学整合分析，基因组进化，作物遗传育种分析等。欢迎对科研有兴趣有梦想的     有志青年加入，专业背景不限，欢迎数学，物理，计算机，生物科学，农业相关专业同学的加入！在岗优秀者可留下读硕读博，具体待遇按照研究院统一     标准，长期有效。此外，欢迎本科生来本课题组开展科研任务和本科毕业设计，感兴趣者请邮件联系。
 
 ### 科研经历
+
 2016 ~ 2021 复旦大学 生物信息学 硕博连读（保送） 理学博士学位
+
 2019 ~ 2020 美国宾夕法尼亚州立大学 生物信息学 国家联合培养博士研究生
+
 2013 ~ 2014 韩国国立江源大学 国家联合培养本科生
+
 2012 ~ 2016 东北林业大学 农学学士学位
+
 ### 教育经历
+
 2016 ~ 2021：博士，生物信息学，理学博士学位，复旦大学  
+
 2012 ~ 2016：本科，农学学士学位，东北林业大学
+
 ### 论文发表
+
 1. __ZHAO Y__, ZHANG R, JIANG K, QI J, HU Y, GUO J, ZHU R, ZHANG T, EGANA N, YI T-S, HUANG C-H, MA H 2021. Nuclear phylotranscriptomics/phylogenomics support numerous polyploidization events and hypotheses for the evolution of rhizobial nitrogen-fixing symbiosis in Fabaceae. ***Molecular Plant*** [J]. 2021, 14(5): 748-773 (First author, **IF= 13.164**, Cover story & Featured article, the study reported in dozens of domestic and international mainstream media such as Guangming Daily, People's Daily, China News, Science Daily, Phy.org, etc., Contribution: for the cover article, based on the transcriptome and genome, we constructed the largest phylogenetic relationship of Leguminosae to date. Phylogenetic relationships were resolved for five subfamilies, about 30 genome-wide replication events were identified, the evolutionary history of the nitrogen-fixing gene family was explored, and the important role of a new gene in nitrogen fixation was proposed, providing an important basis for germplasm conservation and breeding in the legume family.)
 
 2. ZHANG L#*, CHEN F#, ZHANG X#, LI Z#, **ZHAO Y#**, LOHAUS R#, CHANG X#, DONG W, HO S Y W, LIU X, SONG A, CHEN J, GUO W, WANG Z, ZHUANG Y, WANG H, CHEN X, HU J, LIU Y, QIN Y, WANG K, DONG S, LIU Y, ZHANG S, YU X, WU Q, WANG L, YAN X, JIAO Y, KONG H, ZHOU X, YU C, CHEN Y, LI F, WANG J, CHEN W, CHEN X, JIA Q, ZHANG C, JIANG Y, ZHANG W, LIU G, FU J, CHEN F, MA H, VAN DE PEER Y, TANG H 2020. The water lily genome and the early evolution of flowering plants. Nature[J], 577: 79-84. (Co-first author, **IF= 49.962**, ESI highly cited paper, Contribution: Involved in the assembly, annotation and correction of transcriptome data of the first aquatic early angiosperm genome. Based on 115 transcriptome and genome-wide data, a highly supported phylogenetic tree of flowering plants was constructed, and molecular clock analysis revealed that early angiosperms originated in the early Cretaceous, while highly supporting the phylogenetic relationships within the Water Lily family. Low-copy nuclear genes from the whole genome confirmed that saprophytic camphor was the earliest differentiated angiosperm. Meanwhile, using a comparative genomics approach, the Blue Star water lily was identified as a potential hybrid parent of two cultivars, laying the foundation for genomics in molecular cultivation breeding.)
@@ -60,6 +72,7 @@ No.1:1-31 (In Chinese)
 [黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
 
 ### 在读研究生
+
 <div align="center">
 <img src="miaoyanming.png" width = "132" height = "192">
 </div> 
