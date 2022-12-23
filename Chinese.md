@@ -65,20 +65,21 @@
 8.	多尺度双轴旋转激光影像三维重构系统及其方法；颜润明，雷亮，**王崎**，刘子强，钟嘉华，赖锦祥，周金运；2018.09.25，ZL201510980774.X.(授权)  
 
 ### 在读研究生
+<div align="center">
 <img src="miaoyanming.png" width = "132" height = "192">
-
+</div> 
 苗言铭(博士研究生, 研究方向:时空预测、图卷积)
 
-
+<div align="center">
 <img src="dongxinyu.png" width = "132" height = "192">  
-
+</div> 
 董新宇(硕士研究生, 研究方向:图像文本分析、图像表征)
 
-
+<div align="center">
 <img src="wangjianjun.png" width = "132" height = "192">
-
+</div> 
 王建军(硕士研究生, 研究方向:计算机视觉、图像细粒度分析)
-
+<div align="center">
 <img src="denghongyu.png" width = "132" height = "192">
-
+</div> 
 邓宏宇(硕士研究生, 研究方向:计算机视觉、图像文本分析)
