@@ -86,10 +86,10 @@ No.1:1-31 (In Chinese)
 唐林霜(硕士研究生, 研究方向:比较基因组学，个人名言：有自信的人，可以化渺小为伟大，化平庸为神奇；比什么都不做多做一点点。)
 
 <div align="center">
-<img src="ShanhanLuo.png" width = "132" height = "192">
+<img src="ShanhanLuo.jpg" width = "132" height = "192">
 </div> 
 罗珊珊(硕士研究生, 研究方向:比较基因组学，性格外向活泼开朗，乐观积极，喜欢摄影吉他舞蹈烘焙和旅行，平时会尝试各种手工DIY)
 <div align="center">
-<img src="ZhipengLiu.png" width = "132" height = "192">
+<img src="ZhipengLiu.jpg" width = "132" height = "192">
 </div> 
 李智鹏(本科生, 研究方向:分子进化，喜欢竹笛热爱配音和数据分析，擅长整理数据和分类，性格乐观活泼，特别喜欢新事物)
