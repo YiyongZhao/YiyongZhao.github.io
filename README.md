@@ -6,14 +6,14 @@
 
 
 Yiyong Zhao, male, born in 1991, is a professor, master's degree advisor, and a member of the CPC. He was selected as a [Distinguished Professor Class A](GZU_Recruitment.html) in 2022 of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/), <p align = "justify"> I mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers including *Nature*, *Molecular Plant* and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding, and also laying the foundation for genomics in molecular cultivation breeding. He is a reviewer for *Molecular Plant*, *Horticulture Research*, *Frontiers Molecular Biosciences*, *Molecular Phylogenetics and Evolution*, *Journal of Systematics and Evolution*, etc.
-
-
+</p>
+<p align = "justify">
 Mobile: +86-13262259838  
 Email: fudan@yiyongzhao.com    
 Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Guiyang City, Guizhou Province, China, 550025
-				
+</p>				
 ### Education
-
+<p align = "justify">
 2016.06 ~ 2021.06：Ph.D.in Bioinformatcis, School of Life Sciences, Fudan University, China 
 
 2019.09 ~ 2020.10：China Scholarship Council (CSC) Joint Ph.D. Program, Department of Biology, Pennsylvania State University, USA
@@ -21,17 +21,17 @@ Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Guiyan
 2012.06 ~ 2016.06：Bachelor of Science in Agriculture (*summa cum laude*), Northeast Forestry University, China
 
 2013.06 ~ 2014.01：CSC Joint Bachelor Program, Kangwon National University, South Korea.
-
+</p>
 ### Work Experience
-
+<p align = "justify">
 2022.10 ~ present: Distinguished Professor (Class A) at Guizhou University, China
 
 2021.07 ~ 2022.08: Bioinformatics & AI Scientist, at [Drug Farm Co. Ltd](https://drug-farm.com), Shanghai
-
+</p>
 ### Research Interests
-
+<p align = "justify">
 Biological big data mining in genomics, comparative genomics and bioinformatics are used to study the evolution and function of genes, genome assembly, species evolution, whole genome duplications, fate of gene duplication, origin and evolution of nitrogen fixation; reconstruct angiosperm phylogeny, especially the economically important families of angiosperms, such as Rosids, Fabaceae, etc.;
-
+</p>
 ### Publications (# Co-first author, * Corresponding author)
 
 1. __ZHAO Y__, ZHANG R, JIANG K, QI J, HU Y, GUO J, ZHU R, ZHANG T, EGANA N, YI T-S, HUANG C-H, MA H 2021. Nuclear phylotranscriptomics/phylogenomics support numerous polyploidization events and hypotheses for the evolution of rhizobial nitrogen-fixing symbiosis in Fabaceae. ***Molecular Plant**** [J]. 2021, 14(5): 748-773 (First author, **IF= 13.164**, Cover story & Featured article, the study reported in dozens of domestic and international mainstream media such as Guangming Daily, People's Daily, China News, Science Daily, Phy.org, etc., Contribution: for the cover article, based on the transcriptome and genome, we constructed the largest phylogenetic relationship of Leguminosae to date. Phylogenetic relationships were resolved for five subfamilies, about 30 genome-wide replication events were identified, the evolutionary history of the nitrogen-fixing gene family was explored, and the important role of a new gene in nitrogen fixation was proposed, providing an important basis for germplasm conservation and breeding in the legume family.)
@@ -47,7 +47,7 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 9. GUO J, XU W, HU Y, HUANG J, **ZHAO Y**, ZHANG L, HUANG C-H, MA H 2020. Phylotranscriptomics in Cucurbitaceae reveal multiple whole genome duplications and key morphological and molecular innovations. ***Molecular Plant*** [J], 13: 1-17. (**IF=13.164**)
 
 10. HE C, CHEN Z, **ZHAO Y**, YU Y, WANG H, WANG C, QI J, WANG Y 2020. Histone demethylase IBM1-mediated meiocyte gene expression ensures meiotic chromosome synapsis and recombination.2022. ***Plos Genetics*** [J]. (**IF= 5.917**)
-
+<p align = "justify">
 11. LIANG Y, WANG S, ZHAO C, MA X, **ZHAO Y**, SHAO J, LI Y, LI H, SONG H, MA H, LI H, ZHANG B, ZHANG L 2020. Transcriptional regulation of bark freezing tolerance in apple (*Malus domestica* Borkh.). ***Horticulture Research*** [J], 7: 205. (**IF= 6.072**)
 
 12. MENG Z, HAN J, LIN Y, **ZHAO Y**, LIN Q, MA X, WANG J, ZHANG M, ZHANG L, YANG Q, WANG K 2020. Characterization of a Saccharum spontaneum with a basic chromosome number of x = 10 provides new insights on genome evolution in genus Saccharum. ***Theoretical and Applied Genetics*** [J], 133: 187-199. (**IF= 5.699**)
@@ -60,16 +60,17 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 in CaCA gene family of Capsella. 2020. ***Journal of Fudan University*** (Natural Science) [J], 59,
 No.1:1-31 (In Chinese)
 
-
 ### Porjects  
-
+<p align = "justify">
 Presided over or participated in the National Foundation, Guizhou University high-level talent start-up funding projects, etc. 
-
+</p>
 ### Collaborators
-
+<p align = "justify">
 [程琳](http://sky.xynu.edu.cn/info/1012/2600.htm) 副教授，信阳师范学院
 
 [黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
+	
+</p>
 
 ### Students
 
@@ -93,4 +94,3 @@ Jianjun Wang(Graduated student, Image fine-grind analysis; Image representation)
 </div>  
 Hongyu Deng(Graduated student, Cross-model analysis)
 
-</p>
