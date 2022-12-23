@@ -69,7 +69,7 @@ No.1:1-31 (In Chinese)
 
 ### 合作者
 
-[程琳](htmls/ChengLin.html) 副教授，信阳师范学院
+[程琳](htmls/LinCheng.html) 副教授，信阳师范学院
 
 [黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
 
