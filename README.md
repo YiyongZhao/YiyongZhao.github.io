@@ -8,7 +8,7 @@ Yiyong Zhao (Ph.D, Professor) is working in College of Agriculture, [Guizhou Uni
 
 Mobile: +86-13262259838  
 Email: fudan@yiyongzhao.com    
-Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Huaxi Distriict, Guiyang City, Guizhou Province, China (550025)
+Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Guiyang City, Guizhou Province, China, 550025
 				
 ### Education
 
@@ -24,7 +24,7 @@ Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Huaxi 
 
 2022.10 ~ present: Distinguished Professor (Class A) at Guizhou University, China
 
-2021.07 ~ 2022.08: Bioinformatics & AI Scientist, at Drug Farm Co. Ltd, Shanghai [Drug Farm](https://drug-farm.com)
+2021.07 ~ 2022.08: Bioinformatics & AI Scientist, at [Drug Farm Co. Ltd](https://drug-farm.com), Shanghai
 
 ### Research Interests
 
