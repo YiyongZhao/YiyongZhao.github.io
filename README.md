@@ -4,9 +4,9 @@
 
 ### Curriculum Vitae ([中文版本](Chinese.md))
 
-<p align = "justify"> 
-Yiyong Zhao, male, born in 1991, is a professor, master's degree advisor, and a member of the CPC. He was selected as a [Distinguished Professor A](GZU_Recruitment.html) in 2022 of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/), and is mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers including *Nature*, *Molecular Plant* and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding, and also laying the foundation for genomics in molecular cultivation breeding. He is a reviewer for *Molecular Plant*, *Horticulture Research*, *Frontiers Molecular Biosciences*, *Molecular Phylogenetics and Evolution*, *Journal of Systematics and Evolution*, etc.
-</p>
+
+Yiyong Zhao, male, born in 1991, is a professor, master's degree advisor, and a member of the CPC. He was selected as a [Distinguished Professor Class A](GZU_Recruitment.html) in 2022 of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/), <p align = "justify"> I mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers including *Nature*, *Molecular Plant* and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding, and also laying the foundation for genomics in molecular cultivation breeding. He is a reviewer for *Molecular Plant*, *Horticulture Research*, *Frontiers Molecular Biosciences*, *Molecular Phylogenetics and Evolution*, *Journal of Systematics and Evolution*, etc.
+
 
 Mobile: +86-13262259838  
 Email: fudan@yiyongzhao.com    
@@ -77,6 +77,7 @@ Presided over or participated in the National Foundation, Guizhou University hig
 <img src="miaoyanming.png" width = "132" height = "192"> 
 </div>  
 Yanming Miao (Ph.D. student, Spatial-Temporal analysis; Graph Neural Networks)
+</p>
 
 <div align="center">
 <img src="dongxinyu.png" width = "132" height = "192">
@@ -91,3 +92,5 @@ Jianjun Wang(Graduated student, Image fine-grind analysis; Image representation)
 <img src="denghongyu.png" width = "132" height = "192">  
 </div>  
 Hongyu Deng(Graduated student, Cross-model analysis)
+
+</p>
