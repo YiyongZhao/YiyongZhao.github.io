@@ -40,7 +40,7 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 
 2. ZHANG L#*, CHEN F#, ZHANG X#, LI Z#, __ZHAO Y#__, LOHAUS R#, CHANG X#, DONG W, HO S Y W, LIU X, SONG A, CHEN J, GUO W, WANG Z, ZHUANG Y, WANG H, CHEN X, HU J, LIU Y, QIN Y, WANG K, DONG S, LIU Y, ZHANG S, YU X, WU Q, WANG L, YAN X, JIAO Y, KONG H, ZHOU X, YU C, CHEN Y, LI F, WANG J, CHEN W, CHEN X, JIA Q, ZHANG C, JIANG Y, ZHANG W, LIU G, FU J, CHEN F, MA H, VAN DE PEER Y, TANG H 2020. The water lily genome and the early evolution of flowering plants. **Nature**[J], 577: 79-84. (Co-first author, __IF= 49.962__, ESI highly cited paper, Contribution: Involved in the assembly, annotation and correction of transcriptome data of the first aquatic early angiosperm genome. Based on 115 transcriptome and genome-wide data, a highly supported phylogenetic tree of flowering plants was constructed, and molecular clock analysis revealed that early angiosperms originated in the early Cretaceous, while highly supporting the phylogenetic relationships within the Water Lily family. Low-copy nuclear genes from the whole genome confirmed that saprophytic camphor was the earliest differentiated angiosperm. Meanwhile, using a comparative genomics approach, the Blue Star water lily was identified as a potential hybrid parent of two cultivars, laying the foundation for genomics in molecular cultivation breeding.)
 
-3. CHENG L, CHEN F, HAN Q, LI M, Tiago Santana Balbuena, __ZHAO Y\*__. Phylogenomics as an effective approach to untangle cross-species hybridization event: a case study in the family Nymphaeaceae. 2022. 13 ***Frontiers in Genetics***-section in computational genomics (**IF=4.772**)
+3. CHENG L, CHEN F, HAN Q, LI M, Tiago Santana Balbuena, __ZHAO Y\*__. Phylogenomics as an effective approach to untangle cross-species hybridization event: a case study in the family Nymphaeaceae. 2022. 13. ***Frontiers in Genetics-section in computational genomics***. (**IF=4.772**)
 
 4. CHENG L#, LI M#, HAN Q, QIAO Z, HAO Y, Tiago Santana Balbuena, __ZHAO Y\*__. Phylogenomics Resolves the Phylogeny of Theaceae by Using Low-Copy and Multi-Copy Nuclear Gene Makers and Uncovers a Fast Radiation Event Contributing to Tea Plants Diversity.2022. 11(7): 1007. ***Biology*** (**IF=5.168**)
 
@@ -48,7 +48,7 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 
 6. GUO J, XU W, HU Y, HUANG J, **ZHAO Y**, ZHANG L, HUANG C-H, MA H 2020. Phylotranscriptomics in Cucurbitaceae reveal multiple whole genome duplications and key morphological and molecular innovations. ***Molecular Plant*** [J], 13: 1-17. (**IF=13.164**)
 
-7. HE C, CHEN Z, **ZHAO Y**, YU Y, WANG H, WANG C, QI J, WANG Y 2020. Histone demethylase IBM1-mediated meiocyte gene expression ensures meiotic chromosome synapsis and recombination.2022. ***Plos Genetics*** [J]. (**IF= 5.917**)
+7. HE C, CHEN Z, **ZHAO Y**, YU Y, WANG H, WANG C, QI J, WANG Y 2022 Histone demethylase IBM1-mediated meiocyte gene expression ensures meiotic chromosome synapsis and recombination.2022. ***Plos Genetics*** [J], 18(2): e1010041.(**IF= 5.917**)
 
 8. LIANG Y, WANG S, ZHAO C, MA X, **ZHAO Y**, SHAO J, LI Y, LI H, SONG H, MA H, LI H, ZHANG B, ZHANG L 2020. Transcriptional regulation of bark freezing tolerance in apple (*Malus domestica* Borkh.). ***Horticulture Research*** [J], 7: 205. (**IF= 6.072**)
 
