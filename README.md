@@ -1,4 +1,6 @@
-<img src="me.jpg" width = "176" height = "256">
+<div align="center">
+<img src="me.jpg" width = "176" height = "256"> 
+</div>  
 
 ## Welcome to my homepage!([**中文主页**](Chinese.md))
  Yiyong Zhao (Ph.D, Professor) is working in College of Agriculture, [Guizhou University](http://www.gzu.edu.cn/en/), China  
