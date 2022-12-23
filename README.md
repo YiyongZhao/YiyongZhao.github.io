@@ -3,7 +3,7 @@
 </div>  
 
 ### Curriculum Vitae ([中文版本](Chinese.md))
- &nbsp;&nbsp;&nbsp;&nbsp;Yiyong Zhao (Ph.D, Professor) is working in College of Agriculture, [Guizhou University](http://www.gzu.edu.cn/en/), China  
+Yiyong Zhao (Ph.D, Professor) is working in College of Agriculture, [Guizhou University](http://www.gzu.edu.cn/en/), China  
 
 Mobile: +86-13262259838  
 Email: fudan@yiyongzhao.com    
@@ -30,9 +30,9 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 
 2. ZHANG L#*, CHEN F#, ZHANG X#, LI Z#, **ZHAO Y#**, LOHAUS R#, CHANG X#, DONG W, HO S Y W, LIU X, SONG A, CHEN J, GUO W, WANG Z, ZHUANG Y, WANG H, CHEN X, HU J, LIU Y, QIN Y, WANG K, DONG S, LIU Y, ZHANG S, YU X, WU Q, WANG L, YAN X, JIAO Y, KONG H, ZHOU X, YU C, CHEN Y, LI F, WANG J, CHEN W, CHEN X, JIA Q, ZHANG C, JIANG Y, ZHANG W, LIU G, FU J, CHEN F, MA H, VAN DE PEER Y, TANG H 2020. The water lily genome and the early evolution of flowering plants. **Nature**[J], 577: 79-84. (Co-first author, **IF= 49.962**, ESI highly cited paper, Contribution: Involved in the assembly, annotation and correction of transcriptome data of the first aquatic early angiosperm genome. Based on 115 transcriptome and genome-wide data, a highly supported phylogenetic tree of flowering plants was constructed, and molecular clock analysis revealed that early angiosperms originated in the early Cretaceous, while highly supporting the phylogenetic relationships within the Water Lily family. Low-copy nuclear genes from the whole genome confirmed that saprophytic camphor was the earliest differentiated angiosperm. Meanwhile, using a comparative genomics approach, the Blue Star water lily was identified as a potential hybrid parent of two cultivars, laying the foundation for genomics in molecular cultivation breeding.)
 
-3. CHENG L, CHEN F, HAN Q, LI M, Tiago Santana Balbuena, **ZHAO Y**\*. Phylogenomics as an effective approach to untangle cross-species hybridization event: a case study in the family Nymphaeaceae. 2022. ***Frontiers in Genetics***-section in computational genomics (**IF=4.772**)
+3. CHENG L, CHEN F, HAN Q, LI M, Tiago Santana Balbuena, **ZHAO Y** *. Phylogenomics as an effective approach to untangle cross-species hybridization event: a case study in the family Nymphaeaceae. 2022. ***Frontiers in Genetics***-section in computational genomics (**IF=4.772**)
 
-4. CHENG L#, LI M#, HAN Q, QIAO Z, HAO Y, Tiago Santana Balbuena, **ZHAO Y**\*. Phylogenomics Resolves the Phylogeny of Theaceae by Using Low-Copy and Multi-Copy Nuclear Gene Makers and Uncovers a Fast Radiation Event Contributing to Tea Plants Diversity.2022. 11(7): 1007. ***Biology*** (**IF=5.168**)
+4. CHENG L#, LI M#, HAN Q, QIAO Z, HAO Y, Tiago Santana Balbuena, **ZHAO Y** *. Phylogenomics Resolves the Phylogeny of Theaceae by Using Low-Copy and Multi-Copy Nuclear Gene Makers and Uncovers a Fast Radiation Event Contributing to Tea Plants Diversity.2022. 11(7): 1007. ***Biology*** (**IF=5.168**)
 
 8. ZHANG L, ZHU X, **ZHAO Y**, Guo J, ZHANG T, HUANG W, HUANG J, HU Y, HUANG C*, MA H 2022. Phylotranscriptomics Resolves the Phylogeny of Pooideae and Uncovers Factors for Their Adaptive Evolution. ***Molecular Biology Evolution***[J]. (**IF= 16.24**)
 
