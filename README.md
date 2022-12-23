@@ -4,7 +4,9 @@
 
 ### Curriculum Vitae ([中文版本](Chinese.md))
 
-Yiyong Zhao (Ph.D, Professor) is working in College of Agriculture, [Guizhou University](http://www.gzu.edu.cn/en/), China  
+Yiyong Zhao (Ph.D, Professor) is , , China  
+
+Yiyong Zhao, male, born in 1991, is a professor, master's degree advisor, and a member of the CPC. He was selected as a [Distinguished Professor A] (GZU_Recruitment.html) in 2022 of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/), and is mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers including *Nature*, *Molecular Plant* and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding, and also laying the foundation for genomics in molecular cultivation breeding. He is a reviewer for *Molecular Plant*, *Horticulture Research*, *Frontiers Molecular Biosciences*, *Molecular Phylogenetics and Evolution*, *Journal of Systematics and Evolution*, etc.
 
 Mobile: +86-13262259838  
 Email: fudan@yiyongzhao.com    
