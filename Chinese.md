@@ -3,7 +3,7 @@
 </div> 
 ### 个人简历 ([English Version](README.md))  
 
-赵义勇，男，1991年生，教授, 贵州大学作物遗传育种学科硕士研究生导师，中共党员，2016-2021复旦大学硕博连读, 2020年国家公派至美国宾夕法尼亚州立大学进行联合培养博士生。2021年7月获复旦大学生物信息学理学博士学位。曾任职于上海药物牧场担任生物信息学&人工智能科学家。2022年入选贵州大学世界双一流学科高层次人才[特聘教授A类](GZU_Recruitment.html)，主要从事作物重要农艺性状基因挖掘研究，主持或参与国家基金、贵州大学高层次人才启动经费项目等，近五年以第一作者或共同第一作者在*Nature*、*Molecular Plant*等顶尖期刊上发表10余篇SCI论文。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。担任*Molecular Plant*、*Horticulture Research*、*Frontiers Molecular Biosciences*、*Molecular Phylogenetics and Evolution*、*Journal of Systematics and Evolution*等期刊审稿人。
+赵义勇，男，1991年生，教授, 贵州大学作物遗传育种学科硕士研究生导师，中共党员，2016-2021复旦大学硕博连读, 2020年国家公派至美国宾夕法尼亚州立大学进行联合培养博士生。2021年7月获复旦大学生物信息学理学博士学位。曾任职于上海药物牧场担任生物信息学&人工智能科学家。2022年入选贵州大学世界双一流学科高层次人才[特聘教授A类](htmls/GZU_Recruitment.html)，主要从事作物重要农艺性状基因挖掘研究，主持或参与国家基金、贵州大学高层次人才启动经费项目等，近五年以第一作者或共同第一作者在*Nature*、*Molecular Plant*等顶尖期刊上发表10余篇SCI论文。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。担任*Molecular Plant*、*Horticulture Research*、*Frontiers Molecular Biosciences*、*Molecular Phylogenetics and Evolution*、*Journal of Systematics and Evolution*等期刊审稿人。
 
 邮箱：fudan@yiyongzhao.com  
 手机/微信：13262259838   
@@ -69,28 +69,28 @@ No.1:1-31 (In Chinese)
 
 ### 合作者
 
-[程琳](http://sky.xynu.edu.cn/info/1012/2600.htm) 副教授，信阳师范学院
+[程琳](htmls/ChengLin.html) 副教授，信阳师范学院
 
 [黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
 
 ### 在读研究生
 
 <div align="center">
-<img src="TaoLi.jpg" width = "132" height = "192">
+<img src="Photos/TaoLi.jpg" width = "132" height = "192">
 </div> 
 李涛(硕士研究生, 研究方向:开发进化发育组学算法和软件，爱好摄影骑车编程，擅长ps图像处理和pr视频处理，性格外向活泼开朗，但社恐。)
 
 <div align="center">
-<img src="LinshuangTang.jpg" width = "132" height = "192">  
+<img src="Photos/LinshuangTang.jpg" width = "132" height = "192">  
 </div> 
 唐林霜(硕士研究生, 研究方向:比较基因组学，个人名言：有自信的人，可以化渺小为伟大，化平庸为神奇；比什么都不做多做一点点。)
 
 <div align="center">
-<img src="ShanshanLuo.jpg" width = "132" height = "192">
+<img src="Photos/ShanshanLuo.jpg" width = "132" height = "192">
 </div> 
 罗珊珊(硕士研究生, 研究方向:比较基因组学，性格外向活泼开朗，乐观积极，喜欢摄影吉他舞蹈烘焙和旅行，平时会尝试各种手工DIY)
 
 <div align="center">
-<img src="ZhipengLi.jpg" width = "132" height = "192">
+<img src="Photos/ZhipengLi.jpg" width = "132" height = "192">
 </div> 
 李智鹏(本科生, 研究方向:分子进化，喜欢竹笛热爱配音和数据分析，擅长整理数据和分类，性格乐观活泼，特别喜欢新事物)
