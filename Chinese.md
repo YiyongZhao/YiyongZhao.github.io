@@ -44,7 +44,7 @@
 
 4. CHENG L#, LI M#, HAN Q, QIAO Z, HAO Y, Tiago Santana Balbuena, __ZHAO Y\*__. Phylogenomics Resolves the Phylogeny of Theaceae by Using Low-Copy and Multi-Copy Nuclear Gene Makers and Uncovers a Fast Radiation Event Contributing to Tea Plants Diversity.2022. 11(7): 1007. ***Biology*** (**IF=5.168**)
 
-5. ZHANG L, ZHU X, **ZHAO Y**, Guo J, ZHANG T, HUANG W, HUANG J, HU Y, HUANG C*, MA H 2022. Phylotranscriptomics Resolves the Phylogeny of Pooideae and Uncovers Factors for Their Adaptive Evolution. ***Molecular Biology Evolution**[J]. (**IF= 16.24**)
+5. ZHANG L, ZHU X, **ZHAO Y**, Guo J, ZHANG T, HUANG W, HUANG J, HU Y, HUANG C*, MA H 2022. Phylotranscriptomics Resolves the Phylogeny of Pooideae and Uncovers Factors for Their Adaptive Evolution. ***Molecular Biology Evolution***[J]. (**IF= 16.24**)
 
 6. GUO J, XU W, HU Y, HUANG J, **ZHAO Y**, ZHANG L, HUANG C-H, MA H 2020. Phylotranscriptomics in Cucurbitaceae reveal multiple whole genome duplications and key morphological and molecular innovations. ***Molecular Plant*** [J], 13: 1-17. (**IF=13.164**)
 
