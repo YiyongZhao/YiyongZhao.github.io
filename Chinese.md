@@ -89,6 +89,7 @@ No.1:1-31 (In Chinese)
 <img src="ShanshanLuo.jpg" width = "132" height = "192">
 </div> 
 罗珊珊(硕士研究生, 研究方向:比较基因组学，性格外向活泼开朗，乐观积极，喜欢摄影吉他舞蹈烘焙和旅行，平时会尝试各种手工DIY)
+
 <div align="center">
 <img src="ZhipengLi.jpg" width = "132" height = "192">
 </div> 
