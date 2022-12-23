@@ -2,29 +2,29 @@
 <img src="me.jpg" width = "176" height = "256"> 
 </div>  
 
-## Curriculum Vitae ([中文版本](Chinese.md))
+### Curriculum Vitae ([中文版本](Chinese.md))
  Yiyong Zhao (Ph.D, Professor) is working in College of Agriculture, [Guizhou University](http://www.gzu.edu.cn/en/), China  
 
 Mobile: +86-13262259838  
 Email: fudan@yiyongzhao.com    
 Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Huaxi Distriict, Guiyang City, Guizhou Province, China (550025)
 				
-## Education
+### Education
 
 2016.06 ~ 2021.06：Ph.D.in Bioinformatcis, School of Life Sciences, Fudan University, China 
 2019.09 ~ 2020.10：China Scholarship Council (CSC) Joint Ph.D. Program, Department of Biology, Pennsylvania State University, USA
 2012.06 ~ 2016.06：Bachelor of Science in Agriculture (*summa cum laude*), Northeast Forestry University, China
 2013.06 ~ 2014.01：CSC Joint Bachelor Program, Kangwon National University, South Korea.
 
-## Work Experience
+### Work Experience
 
 2022.10 ~ present: Distinguished Professor (Class A) at Guizhou University, China  
 2021.07 ~ 2022.08: Bioinformatics & AI Scientist, at Drug Farm Co. Ltd, Shanghai [Drug Farm](https://drug-farm.com)
 
-## Research Interests
+### Research Interests
 Biological big data mining in genomics, comparative genomics and bioinformatics are used to study the evolution and function of genes, genome assembly, species evolution, whole genome duplications, fate of gene duplication, origin and evolution of nitrogen fixation; reconstruct angiosperm phylogeny, especially the economically important families of angiosperms, such as Rosids, Fabaceae, etc.;
 
-## Publications (# Co-first author, * Corresponding author)
+### Publications (# Co-first author, * Corresponding author)
 
 1. **ZHAO Y**, ZHANG R, JIANG K, QI J, HU Y, GUO J, ZHU R, ZHANG T, EGANA N, YI T-S, HUANG C-H, MA H 2021. Nuclear phylotranscriptomics/phylogenomics support numerous polyploidization events and hypotheses for the evolution of rhizobial nitrogen-fixing symbiosis in Fabaceae. Molecular Plant [J]. 2021, 14(5): 748-773 (Cover story & Featured article, IF= 13.164, reported in dozens of domestic and international mainstream media such as Guangming Daily, People's Daily, China News, Science Daily, Phy.org, etc., Contribution: for the cover article, based on the transcriptome and genome, we constructed the largest phylogenetic relationship of Leguminosae to date. Phylogenetic relationships were resolved for five subfamilies, about 30 genome-wide replication events were identified, the evolutionary history of the nitrogen-fixing gene family was explored, and the important role of a new gene in nitrogen fixation was proposed, providing an important basis for germplasm conservation and breeding in the legume family.)
 
@@ -53,11 +53,15 @@ in CaCA gene family of Capsella. 2020. **Journal of Fudan University** (Natural 
 No.1:1-31 (In Chinese)
 
 
-## Porjects  
+### Porjects  
 Presided over or participated in the National Foundation, Guizhou University high-level talent start-up funding projects, etc. 
 
+### Collaborators
 
-## Students
+[程琳](http://sky.xynu.edu.cn/info/1012/2600.htm) 副教授，信阳师范学院
+[黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
+
+### Students
 <div align="center">
 <img src="miaoyanming.png" width = "132" height = "192"> 
 </div>  
