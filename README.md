@@ -1,11 +1,11 @@
 <div align="center">
-<img src="me.jpg" width = "176" height = "256"> 
+<img src="Photos/YiyongZhao.jpg" width = "176" height = "256"> 
 </div>  
 
 ### Curriculum Vitae ([中文版本](Chinese.md))
 
 
-I'm Yiyong Zhao, male, born in 1991, is a professor and was selected as a [Distinguished Professor Class A](GZU_Recruitment.html)  of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/) in 2022. 
+I'm Yiyong Zhao, male, born in 1991, is a professor and was selected as a [Distinguished Professor Class A](htmls/GZU_Recruitment.html)  of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/) in 2022. 
 <p align = "justify"> 
 I mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers including *Nature*, *Molecular Plant* and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding, and also laying the foundation for genomics in molecular cultivation breeding.I have presided over or participated in the National Foundation, Guizhou University high-level talent start-up funding projects, etc. </p>
 He is a reviewer for *Molecular Plant*, *Horticulture Research*, *Frontiers Molecular Biosciences*, *Molecular Phylogenetics and Evolution*, *Journal of Systematics and Evolution*, etc.
@@ -62,28 +62,28 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 
 ### Collaborators
 
-[程琳](http://sky.xynu.edu.cn/info/1012/2600.htm) 副教授，信阳师范学院
+[程琳](htmls/ChengLin.html) 副教授，信阳师范学院
 
 [黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
 
 ### Students
 
 <div align="center">
-<img src="TaoLi.jpg" width = "132" height = "192">
+<img src="Photos/TaoLi.jpg" width = "132" height = "192">
 </div> 
 Tao Li (Graduated student, Develop evolutionary developmental genomics algorithms and software, hobby photography cycling programming, good at ps image processing and pr video processing, outgoing lively and cheerful personality, but social fear.)
 
 <div align="center">
-<img src="LinshuangTang.jpg" width = "132" height = "192">  
+<img src="Photos/LinshuangTang.jpg" width = "132" height = "192">  
 </div> 
 Linshuang Tang(Graduated student, Research Interests:Comparative Genomics, Personal Quotes: People with self-confidence can turn smallness into greatness and mediocrity into magic; they can do a little more than nothing.)
 
 <div align="center">
-<img src="ShanshanLuo.jpg" width = "132" height = "192">
+<img src="Photos/ShanshanLuo.jpg" width = "132" height = "192">
 </div> 
 Shanshan Luo(Graduated student, Research direction: comparative genomics, outgoing, lively and cheerful, optimistic and positive, like photography guitar dance baking and travel, usually will try a variety of handmade DIY)
 
 <div align="center">
-<img src="ZhipengLi.jpg" width = "132" height = "192">
+<img src="Photos/ZhipengLi.jpg" width = "132" height = "192">
 </div> 
 Zhipeng Li(undergraduate student, Research direction: molecular evolution, love bamboo flute and data analysis, good at organizing data and classification, optimistic and lively personality, especially like new things)
