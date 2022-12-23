@@ -1,9 +1,9 @@
 <div align="center">
 <img src="me.jpg" width = "176" height = "256"> 
-        
+</div>     
 ## 欢迎来到赵义勇的个人主页([Click for English](README.md))
 赵义勇，男，教授，博导, 中共党员，2016-2021复旦大学硕博连读, 2020年国家公派至美                                             国宾夕法尼亚州立大学进行联合培养博士生。2021年7月获复旦大学生物信息学理学博士学位。曾                                             任职于上海药物牧场担任生物信息学&人工智能科学家。2022年入选[贵州大学]                                                           (http://www.gzu.edu.cn)高层次人才特聘教授A类。主要从事作物重要农艺性状基因挖掘研                                               究，主持或参与国家基金、贵州大学高层次人才启动经费项目等，近五年在*Nature*（共同第一                                             作者）、*Molecular Plant*（第一作者）等顶尖期刊上发表论文。所发表的论文入选2021年上                                             海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了                                             重要基础，还为基因组学在分子栽培育种上奠定了基础。担任*Molecular Plant*、                                                     *Horticulture Research*、*Frontiers Molecular Biosciences*、*Molecular                                               Phylogenetics and Evolution*、*Journal of Systematics and Evolution*等期刊                                             审稿人。
-</div>
+
 
 
 研究方向：重要农艺性状基因挖掘研究
