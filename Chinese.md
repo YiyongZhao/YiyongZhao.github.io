@@ -76,20 +76,20 @@ No.1:1-31 (In Chinese)
 ### 在读研究生
 
 <div align="center">
-<img src="miaoyanming.png" width = "132" height = "192">
+<img src="TaoLi.jpg" width = "132" height = "192">
 </div> 
-苗言铭(博士研究生, 研究方向:时空预测、图卷积)
+李涛(硕士研究生, 研究方向:开发进化发育组学算法和软件，爱好摄影骑车编程，擅长ps图像处理和pr视频处理，性格外向活泼开朗，但社恐。)
 
 <div align="center">
-<img src="dongxinyu.png" width = "132" height = "192">  
+<img src="LinshuangTang.jpg" width = "132" height = "192">  
 </div> 
-董新宇(硕士研究生, 研究方向:图像文本分析、图像表征)
+唐林霜(硕士研究生, 研究方向:比较基因组学，个人名言：有自信的人，可以化渺小为伟大，化平庸为神奇；比什么都不做多做一点点。)
 
 <div align="center">
-<img src="wangjianjun.png" width = "132" height = "192">
+<img src="ShanhanLuo.png" width = "132" height = "192">
 </div> 
-王建军(硕士研究生, 研究方向:计算机视觉、图像细粒度分析)
+罗珊珊(硕士研究生, 研究方向:比较基因组学，性格外向活泼开朗，乐观积极，喜欢摄影吉他舞蹈烘焙和旅行，平时会尝试各种手工DIY)
 <div align="center">
-<img src="denghongyu.png" width = "132" height = "192">
+<img src="ZhipengLiu.png" width = "132" height = "192">
 </div> 
-邓宏宇(硕士研究生, 研究方向:计算机视觉、图像文本分析)
+邓宏宇(本科生, 研究方向:分子进化，喜欢竹笛热爱配音和数据分析，擅长整理数据和分类，性格乐观活泼，特别喜欢新事物)
