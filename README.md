@@ -7,7 +7,7 @@
 
 I'm Yiyong Zhao, male, born in 1991, is a professor and was selected as a [Distinguished Professor Class A](GZU_Recruitment.html)  of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/) in 2022. 
 <p align = "justify"> 
-I mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers including *Nature*, *Molecular Plant* and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding, and also laying the foundation for genomics in molecular cultivation breeding. </p>
+I mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers including *Nature*, *Molecular Plant* and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding, and also laying the foundation for genomics in molecular cultivation breeding.I have presided over or participated in the National Foundation, Guizhou University high-level talent start-up funding projects, etc. </p>
 He is a reviewer for *Molecular Plant*, *Horticulture Research*, *Frontiers Molecular Biosciences*, *Molecular Phylogenetics and Evolution*, *Journal of Systematics and Evolution*, etc.
 
 Mobile: +86-13262259838  
@@ -60,10 +60,6 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 
 12. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates in CaCA gene family of Capsella. 2020. ***Journal of Fudan University*** (Natural Science) [J], 59, No.1:1-31 (In Chinese)
 
-### Porjects  
-<p align = "justify">
-Presided over or participated in the National Foundation, Guizhou University high-level talent start-up funding projects, etc. 
-</p>
 ### Collaborators
 
 [程琳](http://sky.xynu.edu.cn/info/1012/2600.htm) 副教授，信阳师范学院
