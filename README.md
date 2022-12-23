@@ -58,21 +58,21 @@ Presided over or participated in the National Foundation, Guizhou University hig
 
 
 ## Students
-
+<div align="center">
 <img src="miaoyanming.png" width = "132" height = "192"> 
-
+</div>  
 Yanming Miao (Ph.D. student, Spatial-Temporal analysis; Graph Neural Networks)
 
-
+<div align="center">
 <img src="dongxinyu.png" width = "132" height = "192">
-
+</div>  
 Xinyu Dong (Graduated student, Computer vision; Image representation)
 
-
+<div align="center">
 <img src="wangjianjun.png" width = "132" height = "192"> 
-
+</div>  
 Jianjun Wang(Graduated student, Image fine-grind analysis; Image representation)
-
+<div align="center">
 <img src="denghongyu.png" width = "132" height = "192">  
-
+</div>  
 Hongyu Deng(Graduated student, Cross-model analysis)
