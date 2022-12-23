@@ -79,11 +79,11 @@ Tao Li (Graduated student, Develop evolutionary developmental genomics algorithm
 Linshuang Tang(Graduated student, Research Interests:Comparative Genomics, Personal Quotes: People with self-confidence can turn smallness into greatness and mediocrity into magic; they can do a little more than nothing.)
 
 <div align="center">
-<img src="ShanhanLuo.jpg" width = "132" height = "192">
+<img src="ShanshanLuo.jpg" width = "132" height = "192">
 </div> 
 Shanshan Luo(Graduated student, Research direction: comparative genomics, outgoing, lively and cheerful, optimistic and positive, like photography guitar dance baking and travel, usually will try a variety of handmade DIY)
 <div align="center">
-<img src="ZhipengLiu.jpg" width = "132" height = "192">
+<img src="ZhipengLi.jpg" width = "132" height = "192">
 </div> 
 Zhipeng Li(undergraduate student, Research direction: molecular evolution, love bamboo flute and data analysis, good at organizing data and classification, optimistic and lively personality, especially like new things)
 
