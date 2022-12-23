@@ -88,3 +88,24 @@ Jianjun Wang(Graduated student, Image fine-grind analysis; Image representation)
 </div>  
 Hongyu Deng(Graduated student, Cross-model analysis)
 
+
+
+<div align="center">
+<img src="TaoLi.jpg" width = "132" height = "192">
+</div> 
+Tao Li (Graduated student, Develop evolutionary developmental genomics algorithms and software, hobby photography cycling programming, good at ps image processing and pr video processing, outgoing lively and cheerful personality, but social fear.)
+
+<div align="center">
+<img src="LinshuangTang.jpg" width = "132" height = "192">  
+</div> 
+Linshuang Tang(Graduated student, Research Interests:Comparative Genomics, Personal Quotes: People with self-confidence can turn smallness into greatness and mediocrity into magic; they can do a little more than nothing.)
+
+<div align="center">
+<img src="ShanhanLuo.png" width = "132" height = "192">
+</div> 
+Shanshan Luo(Graduated student, Research direction: comparative genomics, outgoing, lively and cheerful, optimistic and positive, like photography guitar dance baking and travel, usually will try a variety of handmade DIY)
+<div align="center">
+<img src="ZhipengLiu.png" width = "132" height = "192">
+</div> 
+Zhipeng Li(undergraduate student, Research direction: molecular evolution, love bamboo flute and data analysis, good at organizing data and classification, optimistic and lively personality, especially like new things)
+
