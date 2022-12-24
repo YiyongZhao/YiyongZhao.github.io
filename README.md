@@ -68,9 +68,9 @@ Biological big data mining; genomics, phylogenomics and comparative genomics; bi
 
 ### Collaborators
 
-[Dr. Lin Cheng](htmls/LinCheng.html) Associate Professor, Xinyang Normal University
+[Dr. Lin Cheng](htmls/LinCheng.html), Associate Professor, Xinyang Normal University
 
-[Dr. Mingjin Huang](https://www.scholarmate.com/P/EFv2Mv) Associate Professor, Guizhou University
+[Dr. Mingjin Huang](https://www.scholarmate.com/P/EFv2Mv), Associate Professor, Guizhou University
 
 ### Students
 
