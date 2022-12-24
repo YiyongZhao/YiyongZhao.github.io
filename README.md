@@ -88,7 +88,7 @@ Hao Yin (MD candidate, Research Interests: Comparative Genomics of Poaceae, Hao 
 <div align="center">
 <img src="Photos/DaliangLiu.jpg" width = "132" height = "192"> 
 </div> 
-Daliang Liu(Research Associate, MD from Nanjing Agricultural University; Research Direction: Population genomics and bioinformatics; Motto: The mountain is high, take each step well, you can conquer it)
+Daliang Liu (Research Associate, MD from Nanjing Agricultural University; Research Direction: Population genomics and bioinformatics; Motto: The mountain is high, take each step well, you can conquer it)
 
 <div align="center">
 <img src="Photos/SongLu.jpg" width = "132" height = "192"> 
