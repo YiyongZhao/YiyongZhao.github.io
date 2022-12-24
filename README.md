@@ -108,7 +108,7 @@ Shanshan Luo(MD candidate, Co-supervised with Dr. Huang, Research direction: com
 <div align="center">
 <img src="Photos/MenggeLi.jpg" width = "140" height = "192"> 
 </div> 
-Mengge Li (MD,Research Associate; Co-supervised with Dr. Cheng,  Research Direction: Phylogenomics and bioinformatics; enjoy growing succulents, listening to music, and playing badminton, etc.)
+Mengge Li (MD, Research Associate; Co-supervised with Dr. Cheng,  Research Direction: Phylogenomics and bioinformatics; enjoy growing succulents, listening to music, and playing badminton, etc.)
 
 <div align="center">
 <img src="Photos/YanlinHao.jpg" width = "140" height = "192"> 
