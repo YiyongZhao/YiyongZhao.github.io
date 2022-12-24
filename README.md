@@ -4,13 +4,18 @@
 
 ### Curriculum Vitae ([中文版本](Chinese.md))
 
-
-Yiyong Zhao, male, born in 1991, a professor and was selected as a [Distinguished Professor Class A](htmls/GZU_Recruitment.html) of College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/) in 2022. 
 <p align = "justify"> 
-I mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers, including Nature, Molecular Plant and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding; and laying the foundation for genomics in molecular cultivation breeding.I have presided over or participated in the National Foundation, Guizhou University high-level talent start-up funding projects, etc. </p>
-As a reviewer for Molecular Plant, Horticulture Research, Frontiers Molecular Biosciences, Molecular Phylogenetics and Evolution, Journal of Systematics and Evolution, etc.
+Yiyong Zhao, male, born in 1991, PhD degree in bioinformatics from a successive master-doctor program at Fudan University and CSC-supported joint PhD program in Pennsylvania State University, USA （2019-2020)；Last year worked as a bioinformatics& AI research scientist at Drug Farm in Shanghai, an innovative drug discovery company leading by Dr. Tian Xu, a Chair Genetics Professor at Yale and Vice President at Westlake University. In this Pharmaceutical company, mainly worked on indications and biomarkers discovery and was involved in a graph neural network-based method to dig first-in-class drug targets. </p>
 
-Mobile: +86-13262259838 
+
+
+Currently, just starting a professor position at Guizhou University and have been selected as the [Special-term Professor Class A](htmls/GZU_Recruitment.html) of the College of Agriculture in [Guizhou University](http://www.gzu.edu.cn/en/) in 2022. The specialized direction in crop genetic breeding at Guizhou University.
+
+
+<p align = "justify"> 
+I mainly engaged in gene mining for important agronomic traits. He has published more than 10 SCI papers, including Nature, Molecular Plant and other top journals in the past five years. The published papers were selected as the major basic research results in Shanghai in 2021 and the major achievements of the Chinese Science and Technology Journal Excellence Program, providing an important foundation for crop germplasm resource conservation and breeding; and laying the foundation for genomics in molecular cultivation breeding.I have presided over or participated in the National Foundation, Guizhou University high-level talent start-up funding projects, etc. Reviewed multiple papers, Including papers publised in the journals of Molecular Plant, Horticulture Research, Frontiers Molecular Biosciences, Molecular Phylogenetics and Evolution, Journal of Systematics and Evolution, etc.</p>
+
+Mobile: +86 13262259838 
 Email: fudan@yiyongzhao.com 
 Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Guiyang City, Guizhou Province, China, 550025
 				
@@ -26,13 +31,13 @@ Address: Room 1035, Chonghou Building of West Campus, Guizhou University, Guiyan
 
 ### Work Experience
 
-2022.10 ~ present: Distinguished Professor (Class A) at Guizhou University, China
+2022.10 ~ present: Professor (Special-term Professor Class A), Guizhou University, China
 
 2021.07 ~ 2022.08: Bioinformatics & AI Scientist, at [Drug Farm Co. Ltd](https://drug-farm.com), Shanghai
 	
 ### Research Interests
 <p align = "justify">
-Biological big data mining in genomics, comparative genomics and bioinformatics are used to study the evolution and function of genes, genome assembly, species evolution, whole genome duplications, fate of gene duplication, origin and evolution of nitrogen fixation; reconstruct angiosperm phylogeny, especially the economically important families of angiosperms, such as Rosids, Fabaceae, etc.;
+Biological big data mining; genomics, phylogenomics and comparative genomics; bioinformatics software development; genome assembly, genome evolution such as whole genome duplications; hybridization detection; gene evolution and functional genomics.
 </p>
 
 ### Publications (# Co-first author, * Corresponding author)
@@ -63,9 +68,9 @@ Biological big data mining in genomics, comparative genomics and bioinformatics 
 
 ### Collaborators
 
-[程琳](htmls/LinCheng.html) 副教授, 信阳师范学院
+[Dr. Lin Cheng](htmls/LinCheng.html) Associate Professor, Xinyang Normal University
 
-[黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授, 贵州大学
+[Dr. Mingjin Huang](https://www.scholarmate.com/P/EFv2Mv) Associate Professor, Guizhou University
 
 ### Students
 
@@ -77,13 +82,13 @@ Tao Li (MD candidate, Develop evolutionary developmental genomics algorithms and
 <div align="center">
 <img src="Photos/HaoYin.jpg" width = "132" height = "192">
 </div> 
-Hao Yin (MD candidate, Research Interests: Comparative Genomics of Poaceae, Hao is cheerful, positive and have good teamwork spirit. My favorite sports are table tennis and badminton.)
+Hao Yin (MD candidate, Research Interests: Comparative Genomics of Poaceae, Hao is cheerful, optimistic and have a good teamwork spirit. My favorite sports are table tennis and badminton.)
 
 
 <div align="center">
 <img src="Photos/DaliangLiu.jpg" width = "132" height = "192"> 
 </div> 
-Daliang Liu(Research Associate, Master's Degree from Nanjing Agricultural University; Research Direction: Population genomics and bioinformatics; Motto: The mountain is high, take each step well, you can conquer it)
+Daliang Liu(Research Associate, MD from Nanjing Agricultural University; Research Direction: Population genomics and bioinformatics; Motto: The mountain is high, take each step well, you can conquer it)
 
 <div align="center">
 <img src="Photos/SongLu.jpg" width = "132" height = "192"> 
@@ -93,42 +98,42 @@ Song Lu (Research Associate; Research Direction: Comparative Genomics; come from
 <div align="center">
 <img src="Photos/LinshuangTang.jpg" width = "132" height = "192"> 
 </div> 
-Linshuang Tang (MD candidate, Research Interests: Comparative Genomics, Personal Quotes: People with self-confidence can turn smallness into greatness and mediocrity into magic; they can do a little more than nothing.)
+Linshuang Tang (MD candidate, Co-supervised with Dr. Huang, Research Interests: Comparative Genomics, Personal Quotes: People with self-confidence can turn smallness into greatness and mediocrity into magic; they can do a little more than nothing.)
 
 <div align="center">
 <img src="Photos/ShanshanLuo.jpg" width = "132" height = "192">
 </div> 
-Shanshan Luo(MD candidate, Research direction: comparative genomics, outgoing, lively and cheerful, optimistic and positive, like photography guitar, dance, baking and travel, usually will try a variety of handmade DIY)
+Shanshan Luo(MD candidate, Co-supervised with Dr. Huang, Research direction: comparative genomics, passionate about photography guitar, dance, baking, travel, and will usually try a variety of homemade DIY)
 
 <div align="center">
 <img src="Photos/MenggeLi.jpg" width = "140" height = "192"> 
 </div> 
-Mengge Li (Research Associate; Co-supervised, MD, Research Direction: Phylogenimics and bioinformatics; enjoy raising succulent plants, listen to music, play badminton, etc.)
+Mengge Li (MD,Research Associate; Co-supervised with Dr. Cheng,  Research Direction: Phylogenomics and bioinformatics; enjoy growing succulents, listening to music, and playing badminton, etc.)
 
 <div align="center">
 <img src="Photos/YanlinHao.jpg" width = "140" height = "192"> 
 </div> 
-Yanlin Hao (MD candidate, Co-supervised, Research Direcion: Functional genomics and molecular evolution; During my leisure time, I enjoy singing with a small group of friends, traveling, and enjoying life's beauty.)
+Yanlin Hao (MD candidate, Co-supervised with Dr. Cheng, Research Direction: Functional genomics and molecular evolution; During my leisure time, I enjoy singing with a small group of friends, traveling, and enjoying life's beauty.)
 
 <div align="center">
 <img src="Photos/QunweiHan.jpg" width = "140" height = "192"> 
 </div> 
-Qunwei Han (MD candidate, Co-supervised, Research Direction: Evolutionary Genomics & Bioinformatics; Sports, volleyball, handicrafts, badminton, reading, and food are among my favorite things.)
+Qunwei Han (MD candidate, Co-supervised with Dr. Cheng, Research Direction: Evolutionary Genomics & Bioinformatics; Sports, volleyball, handicrafts, badminton, reading, and food are among my favorite things.)
 
 <div align="center">
 <img src="Photos/ZhenQiao.jpg" width = "140" height = "192"> 
 </div> 
-Zhen Qiao (MD candidate, Co-supervised, Research Direction: Evolutionary Genomics & Bioinformatics; A cheerful personality with a wide range of interests, including calligraphy, painting, seal carving, reading, etc.)
+Zhen Qiao (MD candidate, Co-supervised with Dr. Cheng, Research Direction: Evolutionary Genomics & Bioinformatics; A cheerful personality with a wide range of interests, including calligraphy, painting, seal carving, reading, etc.)
 
 <div align="center">
 <img src="Photos/ZhipengLi.jpg" width = "132" height = "192">
 </div> 
-Zhipeng Li (Undergraduate student, Research direction: molecular evolution, love bamboo flute and data analysis, good at organizing data and classification, optimistic and lively personality, especially like new things.)
+Zhipeng Li (Undergraduate student, Research direction: molecular evolution, love the bamboo flute and data analysis, good at organizing data and classification, optimistic and lively personality, especially like new things.)
 
 <div align="center">
 <img src="Photos/QiyuChen.jpg" width = "140" height = "192"> 
 </div> 
-Qiyu Chen (Undergraduate student, Research direction: molecular evolution, enjoy sports, like to see the outside world, good at playing ball, Premiere clipping.)
+Qiyu Chen (Undergraduate student, Research direction: molecular evolution, enjoys sports, like to see the outside world, good at playing ball, Premiere clipping.)
 
 <div align="center">
 <img src="Photos/YinjieJiao.jpg" width = "140" height = "192"> 
