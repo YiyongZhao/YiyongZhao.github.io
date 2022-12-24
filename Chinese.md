@@ -1,14 +1,14 @@
 <div align="center">
 <img src="Photos/YiyongZhao.jpg" width = "176" height = "256"> 
 </div> 
-### 个人简历 ([English Version](README.md))  
+### 个人简历 ([English Version](README.md)) 
 
-赵义勇，男，1991年生，教授, 贵州大学作物遗传育种学科硕士研究生导师，中共党员，2016-2021复旦大学硕博连读, 2020年国家公派至美国宾夕法尼亚州立大学进行联合培养博士生。2021年7月获复旦大学生物信息学理学博士学位。曾任职于上海药物牧场担任生物信息学&人工智能科学家。2022年入选贵州大学世界双一流学科高层次人才[特聘教授A类](htmls/GZU_Recruitment.html)，主要从事作物重要农艺性状基因挖掘研究，主持或参与国家基金、贵州大学高层次人才启动经费项目等，近五年以第一作者或共同第一作者在Nature、Molecular Plant等顶尖期刊上发表10余篇SCI论文。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。担任Molecular Plant、Horticulture Research、Frontiers Molecular Biosciences、Molecular Phylogenetics and Evolution、Journal of Systematics and Evolution等期刊审稿人。
+赵义勇，男，1991年生，教授，贵州大学作物遗传育种学科硕士研究生导师，中共党员，2016-2021复旦大学硕博连读，2020年国家公派至美国宾夕法尼亚州立大学进行联合培养博士生。2021年7月获复旦大学生物信息学理学博士学位。曾任职于上海药物牧场担任生物信息学&人工智能科学家。2022年入选贵州大学世界双一流学科高层次人才[特聘教授A类](htmls/GZU_Recruitment.html)，主要从事作物重要农艺性状基因挖掘研究，主持或参与国家基金、贵州大学高层次人才启动经费项目等，近五年以第一作者或共同第一作者在Nature、Molecular Plant等顶尖期刊上发表10余篇SCI论文。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。担任Molecular Plant、Horticulture Research、Frontiers Molecular Biosciences、Molecular Phylogenetics and Evolution、Journal of Systematics and Evolution等期刊审稿人。
 
-邮箱：fudan@yiyongzhao.com  
-手机/微信：13262259838   
-通讯地址：贵州省贵阳市贵州大学西校区崇厚楼,邮编550025  
-座右铭：Head in the Clouds, Feet on the Ground. 
+邮箱：fudan@yiyongzhao.com 
+手机/微信：13262259838 
+通讯地址：贵州省贵阳市贵州大学西校区崇厚楼，邮编550025 
+座右铭：Head in the Clouds，Feet on the Ground. 
 
 
 ### 教育经历
@@ -24,7 +24,7 @@
 
 ### 工作经历
 
-2012.10 ~ 今天：贵州大学农学院, A岗特聘教授  
+2012.10 ~ 今天：贵州大学农学院，A岗特聘教授 
 
 2021.06 ~ 2022.06：上海[药物牧场](https://drug-farm.com)，生物信息学&人工智能科学家
 
@@ -52,15 +52,14 @@
 
 8. LIANG Y, WANG S, ZHAO C, MA X, **ZHAO Y**, SHAO J, LI Y, LI H, SONG H, MA H, LI H, ZHANG B, ZHANG L 2020. Transcriptional regulation of bark freezing tolerance in apple (*Malus domestica* Borkh.). **Horticulture Research** [J], 7: 205. (**IF= 6.072**)
 
-9. MENG Z, HAN J, LIN Y, **ZHAO Y**, LIN Q, MA X, WANG J, ZHANG M, ZHANG L, YANG Q, WANG K 2020. Characterization of a Saccharum spontaneum with a basic chromosome number of x = 10 provides new insights on genome evolution in genus Saccharum. **Theoretical and Applied Genetics** [J], 133: 187-199. (**IF= 5.699**)
+9. MENG Z, HAN J, LIN Y, **ZHAO Y**, LIN Q, MA X, WANG J, ZHANG M, ZHANG L, YANG Q, WANG K 2020. Characterization of a *Saccharum spontaneum* with a basic chromosome number of x = 10 provides new insights on genome evolution in genus *Saccharum*. **Theoretical and Applied Genetics** [J], 133: 187-199. (**IF= 5.699**)
 
 10. HUANG W, ZHANG L, COLUMBUS J T, HU Y, **ZHAO Y**, TANG L, GUO Z, CHEN W, MCKAIN M, BARTLETT M, HUANG C-H, LI D-Z, GE S, KELLOGG E A, HONG M 2021. A Well-supported nuclear phylogeny of Poaceae and implications for the evolution of C4 photosynthesis. **Molecular Plant**[J], 15(4): 755-777. (**IF=13.164**)
 
-11. MENG F, LIU L, PENG M, WANG Z, WANG C, **ZHAO Y** 2015. Genetic diversity and population structure analysis in wild strawberry (Fragaria nubicola L.) from Motuo in Tibet Plateau based on simple sequence repeats (SSRs). **Biochemical Systematics and Ecology** [J], 63: 113-118. (**IF=1.381**)
+11. MENG F, LIU L, PENG M, WANG Z, WANG C, **ZHAO Y** 2015. Genetic diversity and population structure analysis in wild strawberry (*Fragaria nubicola* L.) from Motuo in Tibet Plateau based on simple sequence repeats (SSRs). **Biochemical Systematics and Ecology** [J], 63: 113-118. (**IF=1.381**)
 
-12. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates
-in CaCA gene family of Capsella. 2020. **Journal of Fudan University** (Natural Science) [J], 59,
-No.1:1-31. (In Chinese)
+12. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates in *CaCA* gene family of *Capsella*. 2020. **Journal of Fudan University** (Natural Science) [J], 59, No.1:1-31. (In Chinese)
+
 
 ### 招生意向
 <p align = "justify">
@@ -69,7 +68,7 @@ No.1:1-31. (In Chinese)
 
 ### 合作者
 
-[程琳](htmls/LinCheng.html)  副教授，信阳师范学院
+[程琳](htmls/LinCheng.html) 副教授，信阳师范学院
 
 [黄明进](https://www.scholarmate.com/P/EFv2Mv) 副教授，贵州大学
 
@@ -78,26 +77,26 @@ No.1:1-31. (In Chinese)
 <div align="center">
 <img src="Photos/TaoLi.jpg" width = "132" height = "192">
 </div> 
-李涛(硕士研究生, 研究方向:生物信息学的算法和软件开发；爱好摄影骑车编程，擅长ps图像处理和pr视频处理，性格外向活泼开朗但社恐)
+李涛(硕士研究生，研究方向:生物信息学的算法和软件开发；爱好摄影骑车编程，擅长ps图像处理和pr视频处理，性格外向活泼开朗但社恐)
 
 <div align="center">
 <img src="Photos/HaoYin.jpg" width = "132" height = "192">
 </div> 
-尹豪(硕士研究生, 研究方向:禾本科的比较基因组学和生物信息学；性格开朗，积极向上，具有良好的团队合作精神，喜欢的运动有乒乓球和羽毛球)
+尹豪(硕士研究生，研究方向:禾本科的比较基因组学和生物信息学；性格开朗，积极向上，具有良好的团队合作精神，喜欢的运动有乒乓球和羽毛球)
 
 <div align="center">
-<img src="Photos/DaliangLiu.jpg" width = "132" height = "192">  
+<img src="Photos/DaliangLiu.jpg" width = "132" height = "192"> 
 </div> 
-刘大亮(科研助理，南农硕士毕业, 研究方向:群体遗传学和生物信息学分析；座右铭：山高万仞，只登一步)
+刘大亮(科研助理，南农硕士毕业，研究方向:群体遗传学和生物信息学分析；座右铭：山高万仞，只登一步)
 
 <div align="center">
-<img src="Photos/SongLu.jpg" width = "132" height = "192">  
+<img src="Photos/SongLu.jpg" width = "132" height = "192"> 
 </div> 
 卢松(科研助理，研究方向: 比较基因组学；来自山城重庆，喜欢大自然的平和宁静、宇宙的浩瀚神秘)
 
 
 <div align="center">
-<img src="Photos/LinshuangTang.jpg" width = "140" height = "192">  
+<img src="Photos/LinshuangTang.jpg" width = "140" height = "192"> 
 </div> 
 唐林霜(硕士研究生，共同指导，研究方向: 比较基因组学；个人名言：有自信的人，可以化渺小为伟大，化平庸为神奇；比什么都不做多做一点点)
 
@@ -107,22 +106,22 @@ No.1:1-31. (In Chinese)
 罗珊珊(硕士研究生，共同指导，研究方向: 比较基因组学；性格外向活泼开朗，乐观积极，喜欢摄影吉他舞蹈烘焙和旅行，平时会尝试各种手工DIY)
 
 <div align="center">
-<img src="Photos/MenggeLi.jpg" width = "140" height = "192">  
+<img src="Photos/MenggeLi.jpg" width = "140" height = "192"> 
 </div> 
-李梦鸽(科研助理，共同指导，硕士毕业, 研究方向:植物系统发育组学和比较基因组学；平时喜欢养多肉，听音乐，打羽毛球等)
+李梦鸽(科研助理，共同指导，硕士毕业，研究方向:植物系统发育组学和比较基因组学；平时喜欢养多肉，听音乐，打羽毛球等)
 
 <div align="center">
-<img src="Photos/YanlinHao.jpg" width = "140" height = "192">  
+<img src="Photos/YanlinHao.jpg" width = "140" height = "192"> 
 </div> 
 郝艳林(硕士研究生，共同指导，研究方向: 功能基因组学和分子进化等；闲暇时间喜欢和小伙伴一起唱歌，旅游，享受生活的美好)
 
 <div align="center">
-<img src="Photos/QunweiHan.jpg" width = "140" height = "192">  
+<img src="Photos/QunweiHan.jpg" width = "140" height = "192"> 
 </div> 
 韩群威(硕士研究生，共同指导，研究方向: 进化基因组学和生物信息学；兴趣爱好广泛，热爱运动，排球，手工，羽毛球，读书，美食等均有涉猎)
 
 <div align="center">
-<img src="Photos/ZhenQiao.jpg" width = "140" height = "192">  
+<img src="Photos/ZhenQiao.jpg" width = "140" height = "192"> 
 </div> 
 乔真(硕士研究生，共同指导，研究方向: 进化基因组学和生物信息学；性格开朗，兴趣爱好广泛，喜爱书法、绘画、篆刻、读书等)
 
@@ -132,11 +131,11 @@ No.1:1-31. (In Chinese)
 李智鹏(本科生，研究课题: 分子进化；喜欢竹笛乐器，热爱配音和数据分析，擅长整理数据和分类，性格乐观活泼，特别喜欢新事物)
 
 <div align="center">
-<img src="Photos/QiyuChen.jpg" width = "140" height = "192">  
+<img src="Photos/QiyuChen.jpg" width = "140" height = "192"> 
 </div> 
 陈琦宇(本科生，研究课题: 分子进化；喜欢运动，喜欢去外面的世界看看，擅长打球，pr剪辑)
 
 <div align="center">
-<img src="Photos/YinjieJiao.jpg" width = "140" height = "192">  
+<img src="Photos/YinjieJiao.jpg" width = "140" height = "192"> 
 </div> 
 焦胤杰(本科生，研究课题: 分子进化；爱好打乒乓球，性格内向，比较喜欢安静)
