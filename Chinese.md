@@ -40,25 +40,27 @@
 
 2. ZHANG L#\*, CHEN F#, ZHANG X#, LI Z#, **ZHAO Y#**, LOHAUS R#, CHANG X#, DONG W, HO S Y W, LIU X, SONG A, CHEN J, GUO W, WANG Z, ZHUANG Y, WANG H, CHEN X, HU J, LIU Y, QIN Y, WANG K, DONG S, LIU Y, ZHANG S, YU X, WU Q, WANG L, YAN X, JIAO Y, KONG H, ZHOU X, YU C, CHEN Y, LI F, WANG J, CHEN W, CHEN X, JIA Q, ZHANG C, JIANG Y, ZHANG W, LIU G, FU J, CHEN F, MA H, VAN DE PEER Y, TANG H 2020. The water lily genome and the early evolution of flowering plants. **Nature** [J], 577: 79-84. (Co-first author, **IF= 49.962**, ESI highly cited paper, Contribution: Involved in the assembly, annotation and correction of transcriptome data of the first aquatic early angiosperm genome. Based on 115 transcriptome and genome-wide data, a highly supported phylogenetic tree of flowering plants was constructed, and molecular clock analysis revealed that early angiosperms originated in the early Cretaceous, while highly supporting the phylogenetic relationships within the Water Lily family. Low-copy nuclear genes from the whole genome confirmed that saprophytic camphor was the earliest differentiated angiosperm. Meanwhile, using a comparative genomics approach, the Blue Star water lily was identified as a potential hybrid parent of two cultivars, laying the foundation for genomics in molecular cultivation breeding.)
 
-3. CHENG L, CHEN F, HAN Q, LI M, Tiago Santana Balbuena, __ZHAO Y\*__. Phylogenomics as an effective approach to untangle cross-species hybridization event: a case study in the family Nymphaeaceae. 2022. 13. **Frontiers in Genetics-section in computational genomics**. (**IF=4.772**)
+3. Lin Cheng, Mengge Li, Yachao Wang, Qunwei Han , Yanlin Hao, Zhen Qiao, Wei Zhang, Lin Qiu, Andong Gong, Zhihan Zhang, Tao Li, Shanshan Luo, Linshuang Tang, Daliang Liu, Hao Yin, Song Lu, Tiago S.Balbuena and Yiyong Zhao*. Transcriptome-based Variations Effectively Untangling the Intraspecific Relationships and Selection Signals in Xinyang Maojian Tea Population. Volume 14-2023 |doi: 10.3389/fpls.2023.1114284 **Frontiers in Plant Science in Plant Bioinformatics**. (**IF=6.627**)
 
-4. CHENG L#, LI M#, HAN Q, QIAO Z, HAO Y, Tiago Santana Balbuena, __ZHAO Y\*__. Phylogenomics Resolves the Phylogeny of Theaceae by Using Low-Copy and Multi-Copy Nuclear Gene Makers and Uncovers a Fast Radiation Event Contributing to Tea Plants Diversity.2022. 11(7): 1007. **Biology** (**IF=5.168**)
+4. CHENG L, CHEN F, HAN Q, LI M, Tiago Santana Balbuena, __ZHAO Y\*__. Phylogenomics as an effective approach to untangle cross-species hybridization event: a case study in the family Nymphaeaceae. 2022. 13. **Frontiers in Genetics-section in computational genomics**. (**IF=4.772**)
 
-5. ZHANG L, ZHU X, **ZHAO Y**, Guo J, ZHANG T, HUANG W, HUANG J, HU Y, HUANG C*, MA H 2022. Phylotranscriptomics Resolves the Phylogeny of Pooideae and Uncovers Factors for Their Adaptive Evolution. **Molecular Biology Evolution** [J], 39(2): msac026. (**IF= 16.24**)
+5. CHENG L#, LI M#, HAN Q, QIAO Z, HAO Y, Tiago Santana Balbuena, __ZHAO Y\*__. Phylogenomics Resolves the Phylogeny of Theaceae by Using Low-Copy and Multi-Copy Nuclear Gene Makers and Uncovers a Fast Radiation Event Contributing to Tea Plants Diversity.2022. 11(7): 1007. **Biology** (**IF=5.168**)
 
-6. GUO J, XU W, HU Y, HUANG J, **ZHAO Y**, ZHANG L, HUANG C-H, MA H 2020. Phylotranscriptomics in Cucurbitaceae reveal multiple whole genome duplications and key morphological and molecular innovations. **Molecular Plant** [J], 13: 1-17. (**IF=13.164**)
+6. ZHANG L, ZHU X, **ZHAO Y**, Guo J, ZHANG T, HUANG W, HUANG J, HU Y, HUANG C*, MA H 2022. Phylotranscriptomics Resolves the Phylogeny of Pooideae and Uncovers Factors for Their Adaptive Evolution. **Molecular Biology Evolution** [J], 39(2): msac026. (**IF= 16.24**)
 
-7. HE C, CHEN Z, **ZHAO Y**, YU Y, WANG H, WANG C, QI J, WANG Y 2022 Histone demethylase IBM1-mediated meiocyte gene expression ensures meiotic chromosome synapsis and recombination.2022. **Plos Genetics** [J], 18(2): e1010041.(**IF= 5.917**)
+7. GUO J, XU W, HU Y, HUANG J, **ZHAO Y**, ZHANG L, HUANG C-H, MA H 2020. Phylotranscriptomics in Cucurbitaceae reveal multiple whole genome duplications and key morphological and molecular innovations. **Molecular Plant** [J], 13: 1-17. (**IF=13.164**)
 
-8. LIANG Y, WANG S, ZHAO C, MA X, **ZHAO Y**, SHAO J, LI Y, LI H, SONG H, MA H, LI H, ZHANG B, ZHANG L 2020. Transcriptional regulation of bark freezing tolerance in apple (*Malus domestica* Borkh.). **Horticulture Research** [J], 7: 205. (**IF= 6.072**)
+8. HE C, CHEN Z, **ZHAO Y**, YU Y, WANG H, WANG C, QI J, WANG Y 2022 Histone demethylase IBM1-mediated meiocyte gene expression ensures meiotic chromosome synapsis and recombination.2022. **Plos Genetics** [J], 18(2): e1010041.(**IF= 5.917**)
 
-9. MENG Z, HAN J, LIN Y, **ZHAO Y**, LIN Q, MA X, WANG J, ZHANG M, ZHANG L, YANG Q, WANG K 2020. Characterization of a *Saccharum spontaneum* with a basic chromosome number of x = 10 provides new insights on genome evolution in genus *Saccharum*. **Theoretical and Applied Genetics** [J], 133: 187-199. (**IF= 5.699**)
+9. LIANG Y, WANG S, ZHAO C, MA X, **ZHAO Y**, SHAO J, LI Y, LI H, SONG H, MA H, LI H, ZHANG B, ZHANG L 2020. Transcriptional regulation of bark freezing tolerance in apple (*Malus domestica* Borkh.). **Horticulture Research** [J], 7: 205. (**IF= 6.072**)
 
-10. HUANG W, ZHANG L, COLUMBUS J T, HU Y, **ZHAO Y**, TANG L, GUO Z, CHEN W, MCKAIN M, BARTLETT M, HUANG C-H, LI D-Z, GE S, KELLOGG E A, HONG M 2021. A Well-supported nuclear phylogeny of Poaceae and implications for the evolution of C4 photosynthesis. **Molecular Plant**[J], 15(4): 755-777. (**IF=13.164**)
+10. MENG Z, HAN J, LIN Y, **ZHAO Y**, LIN Q, MA X, WANG J, ZHANG M, ZHANG L, YANG Q, WANG K 2020. Characterization of a *Saccharum spontaneum* with a basic chromosome number of x = 10 provides new insights on genome evolution in genus *Saccharum*. **Theoretical and Applied Genetics** [J], 133: 187-199. (**IF= 5.699**)
 
-11. MENG F, LIU L, PENG M, WANG Z, WANG C, **ZHAO Y** 2015. Genetic diversity and population structure analysis in wild strawberry (*Fragaria nubicola* L.) from Motuo in Tibet Plateau based on simple sequence repeats (SSRs). **Biochemical Systematics and Ecology** [J], 63: 113-118. (**IF=1.381**)
+11. HUANG W, ZHANG L, COLUMBUS J T, HU Y, **ZHAO Y**, TANG L, GUO Z, CHEN W, MCKAIN M, BARTLETT M, HUANG C-H, LI D-Z, GE S, KELLOGG E A, HONG M 2021. A Well-supported nuclear phylogeny of Poaceae and implications for the evolution of C4 photosynthesis. **Molecular Plant**[J], 15(4): 755-777. (**IF=13.164**)
 
-12. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates in *CaCA* gene family of *Capsella*. 2020. **Journal of Fudan University** (Natural Science) [J], 59, No.1:1-31. (In Chinese)
+12. MENG F, LIU L, PENG M, WANG Z, WANG C, **ZHAO Y** 2015. Genetic diversity and population structure analysis in wild strawberry (*Fragaria nubicola* L.) from Motuo in Tibet Plateau based on simple sequence repeats (SSRs). **Biochemical Systematics and Ecology** [J], 63: 113-118. (**IF=1.381**)
+
+13. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates in *CaCA* gene family of *Capsella*. 2020. **Journal of Fudan University** (Natural Science) [J], 59, No.1:1-31. (In Chinese)
 
 
 ### 招生意向
