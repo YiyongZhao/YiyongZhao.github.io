@@ -72,6 +72,4 @@ Biological big data mining; genomics, phylogenomics and comparative genomics; bi
 
 13. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates in *CaCA* gene family of *Capsella*. 2020. **Journal of Fudan University** (Natural Science) [J], 59, No.1:1-31. (In Chinese)
 
-14. HUANG J, XU W, ZHAI J, HU Y, GUO J, ZHANG C, **ZHAO Y**, ZHANG L, MARTINE C, MA H, HUANG C. 2023. Nuclear phylogeny and insights into whole genome duplications and reproductive development of Solanaceae plants. **Plant Communications[J]** DOI:https://doi.org/10.1016/j.xplc.2023.100595  (**IF=8.625**)
-
-
+14. HUANG J, XU W, ZHAI J, HU Y, GUO J, ZHANG C, **ZHAO Y**, ZHANG L, MARTINE C, MA H, HUANG C. 2023. Nuclear phylogeny and insights into whole genome duplications and reproductive development of Solanaceae plants. **Plant Communications[J]** DOI:https://doi.org/10.1016/j.xplc.2023.100595  (**IF=8.625**)  
