@@ -7,15 +7,15 @@
 
 
 <div align="justify">  
-Yiyong(Rambo) Zhao, born in 1991, currently work as a Postdoctoral Researcher in Bioinformatics at Harvard University. His primary research interests in unveiling the undiscovered functions of the human genome, particularly in the context of neurological diseases. He accomplishes this by applying and refining computational methodologies that incorporate multi-dimensional data from various sources.    
+Yiyong(Rambo) Zhao, born in 1991, currently work as a Postdoctoral Researcher in Bioinformatics at Harvard University. His primary research interests in unveiling the undiscovered functions of the human genome, particularly in the context of neurological diseases. He accomplishes this by applying and refining computational methodologies that incorporate multi-dimensional data from various sources.  
 </div>
 
 <div align="justify">  
-Rambo earned his Ph.D. in Bioinformatics from Fudan University through a joint Ph.D. program supported by the Chinese Scholarship Council at Pennsylvania State University, USA, in the period from 2019 to 2020. Following this, he gained industry experience as a Bioinformatics & AI Research Scientist at Drug Farm, an innovative drug discovery company in Shanghai led by Dr. Tian Xu, a Chair Genetics Professor at Yale and Vice President at Westlake University. From 2021 to 2022, Dr. Zhao primarily engaged in the discovery of indications and biomarkers and participated in the development of a graph neural network-based method for novel drug target identification. This period in the industry led him to understand his deep-rooted passion for academic research, guiding his transition back to academia. In the academic year 2022-2023, Dr. Zhao held a Professorship at Guizhou University, specializing in crop genetic breeding. He was also recognized as a Class A Professor at the College of Agriculture in Guizhou University during the same year. 
+Rambo earned his Ph.D. in Bioinformatics from Fudan University through a joint Ph.D. program supported by the Chinese Scholarship Council at Pennsylvania State University, USA, in the period from 2019 to 2020. Following this, he gained industry experience as a Bioinformatics & AI Research Scientist at Drug Farm, an innovative drug discovery company in Shanghai led by Dr. Tian Xu, a Chair Genetics Professor at Yale and Vice President at Westlake University. From 2021 to 2022, Dr. Zhao primarily engaged in the discovery of indications and biomarkers and participated in the development of a graph neural network-based method for novel drug target identification. This period in the industry led him to understand his deep-rooted passion for academic research, guiding his transition back to academia. In the academic year 2022-2023, Dr. Zhao held a Professorship at Guizhou University, specializing in crop genetic breeding. He was also recognized as a Class A Professor at the College of Agriculture in Guizhou University during the same year.  
 </div>
 
 <div align="justify"> 
-Rambo has been engaged in gene mining and bioinformatic studies, with over ten papers published in reputed scientific journals such as Nature and Molecular Plant. The publications were chosen as significant basic research results in Shanghai in 2021 and acknowledged as part of the Chinese Science and Technology Journal Excellence Program, forming an integral groundwork for the conservation of crop germplasm resources and breeding. Furthermore, they also established a solid foundation for genomics in molecular cultivation breeding.Dr. Zhao's contributions extend to academic peer review, having evaluated numerous papers for distinguished journals including Molecular Plant, Horticulture Research, Frontiers in Plant Science, Frontiers Molecular Biosciences, Molecular Phylogenetics and Evolution, and Journal of Systematics and Evolution. From 2022 to the present, he serves as an Editorial Board member of Tropical Plants (ISSN 2833-9851) and as a Peer Reviewer for Innovation (ISSN 2959-5150).
+Rambo has been engaged in gene mining and bioinformatic studies, with over ten papers published in reputed scientific journals such as Nature and Molecular Plant. The publications were chosen as significant basic research results in Shanghai in 2021 and acknowledged as part of the Chinese Science and Technology Journal Excellence Program, forming an integral groundwork for the conservation of crop germplasm resources and breeding. Furthermore, they also established a solid foundation for genomics in molecular cultivation breeding.Dr. Zhao's contributions extend to academic peer review, having evaluated numerous papers for distinguished journals including Molecular Plant, Horticulture Research, Frontiers in Plant Science, Frontiers Molecular Biosciences, Molecular Phylogenetics and Evolution, and Journal of Systematics and Evolution. From 2022 to the present, he serves as an Editorial Board member of Tropical Plants (ISSN 2833-9851) and as a Peer Reviewer for Innovation (ISSN 2959-5150).  
 </div>
 
 
@@ -27,7 +27,7 @@ Rambo has been engaged in gene mining and bioinformatic studies, with over ten p
 
 ### Education
 
-2016.06 ~ 2021.06：Ph.D. in Bioinformatics, School of Life Sciences, Fudan University, China 
+2016.06 ~ 2021.06：Ph.D. in Bioinformatics, School of Life Sciences, Fudan University, China
 
 2019.09 ~ 2020.10：China Scholarship Council (CSC) Joint Ph.D. Program, Department of Biology, Pennsylvania State University, USA
 
