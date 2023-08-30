@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Photos/YiyongZhao.jpg" width = "132" height = "192"> 
+<img src="Photos/YiyongZhao.jpg" width = "198" height = "288"> 
 </div> 
 
 ### Curriculum Vitae ([中文版本](./Chinese.md))
