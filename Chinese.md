@@ -36,7 +36,7 @@
 
 
 主要成果
-从事生物信息学和计算生物学相关研究，已在Nature、Molecular Plant等顶尖期刊上发表10余篇SCI论文，同行引用超430次。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。曾主持或参与国家基金、贵州大学高层次人才启动经费项目等。2022年-至今任Tropical Plants (ISSN 2833-9851)杂志编委,Innovation (ISSN 2959-5150)杂志审稿编辑; 担任Molecular Plant、Horticulture Research、Frontiers in Plant Science, Frontiers in Molecular Biosciences、Molecular Phylogenetics and Evolution、Journal of Systematics and Evolution等期刊杂志审稿人。
+从事生物信息学和计算生物学相关研究，已在Nature、Molecular Plant等顶尖期刊上发表10余篇SCI论文，同行引用超430次。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。曾主持或参与国家基金、贵州大学高层次人才启动经费项目等。2022年-至今任Tropical Plants (ISSN 2833-9851)杂志编委,Innovation (ISSN 2959-5150)和Frontiers in Ecology and Evolution等杂志审稿编辑; 担任Molecular Plant、Horticulture Research、Frontiers in Plant Science, Frontiers in Molecular Biosciences、Molecular Phylogenetics and Evolution、Journal of Systematics and Evolution等期刊杂志审稿人。
 
 
 ### 论文发表 (_#_: Co-first author, _*_: Corresponding author, H-index=8, Citations=492)
