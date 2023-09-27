@@ -44,7 +44,7 @@ Biological big data mining; genomics, phylogenomics and comparative genomics; bi
 </p>
 
 
-### Publications (# Co-first author, * Corresponding author, ciatations=516, h-index=8)
+### Publications (# Co-first author, * Corresponding author, ciatations=526, h-index=8)
 
 1. __ZHAO Y__, ZHANG R, JIANG K, QI J, HU Y, GUO J, ZHU R, ZHANG T, EGANA N, YI T-S, HUANG C-H, MA H 2021. Nuclear phylotranscriptomics/phylogenomics support numerous polyploidization events and hypotheses for the evolution of rhizobial nitrogen-fixing symbiosis in Fabaceae. **Molecular Plant** [J]. 2021, 14(5): 748-773 (First author, **IF= 21.949**, Cover story & Featured article, the study reported in dozens of domestic and international mainstream media such as Guangming Daily, People's Daily, China News, Science Daily, Phy.org, etc., Contribution: for the cover article, based on the transcriptome and genome, we constructed the largest phylogenetic relationship of Leguminosae to date. Phylogenetic relationships were resolved for five subfamilies, about 30 genome-wide replication events were identified, the evolutionary history of the nitrogen-fixing gene family was explored, and the important role of a new gene in nitrogen fixation was proposed, providing an important basis for germplasm conservation and breeding in the legume family.)
 
