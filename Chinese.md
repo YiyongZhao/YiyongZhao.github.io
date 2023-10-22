@@ -36,10 +36,10 @@
 
 
 主要成果
-从事生物信息学和计算生物学相关研究，已在Nature、Molecular Plant等顶尖期刊上发表10余篇SCI论文，同行引用超430次。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。曾主持或参与国家基金、贵州大学高层次人才启动经费项目等。2022年-至今任Tropical Plants (ISSN 2833-9851)杂志编委,Innovation (ISSN 2959-5150)和Frontiers in Ecology and Evolution等杂志审稿编辑; 担任Molecular Plant、Horticulture Research、Frontiers in Plant Science, Frontiers in Molecular Biosciences、Molecular Phylogenetics and Evolution、Journal of Systematics and Evolution等期刊杂志审稿人。
+从事生物信息学和计算生物学相关研究，已在Nature、Molecular Plant等顶尖期刊上发表10余篇SCI论文，同行引用超430次。所发表的论文入选2021年上海市重大基础研究成果、中国科技期刊卓越⾏动计划重⼤成果，为作物种质资源保护与育种提供了重要基础，还为基因组学在分子栽培育种上奠定了基础。曾主持或参与国家基金、贵州大学高层次人才启动经费项目等。2022年-至今任Tropical Plants (ISSN 2833-9851)杂志编委,Innovation (ISSN 2959-5150)和Frontiers in Ecology and Evolution, Frontiers in Plant Science等杂志审稿编辑; 担任Molecular Plant、Horticulture Research、Frontiers in Plant Science, Frontiers in Molecular Biosciences、Molecular Phylogenetics and Evolution、Journal of Systematics and Evolution等期刊杂志审稿人。
 
 
-### 论文发表 (_#_: Co-first author, _*_: Corresponding author, H-index=8, Citations=526)
+### 论文发表 (_#_: Co-first author, _*_: Corresponding author, H-index=8, Citations=540)
 
 1. __ZHAO Y__, ZHANG R, JIANG K, QI J, HU Y, GUO J, ZHU R, ZHANG T, EGANA N, YI T-S, HUANG C-H, MA H 2021. Nuclear phylotranscriptomics/phylogenomics support numerous polyploidization events and hypotheses for the evolution of rhizobial nitrogen-fixing symbiosis in Fabaceae. **Molecular Plant** [J]. 2021, 14(5): 748-773 (First author, **IF= 21.949**, Cover story & Featured article, the study reported in dozens of domestic and international mainstream media such as Guangming Daily, People's Daily, China News, Science Daily, Phy.org, etc., Contribution: for the cover article, based on the transcriptome and genome, we constructed the largest phylogenetic relationship of Leguminosae to date. Phylogenetic relationships were resolved for five subfamilies, about 30 genome-wide replication events were identified, the evolutionary history of the nitrogen-fixing gene family was explored, and the important role of a new gene in nitrogen fixation was proposed, providing an important basis for germplasm conservation and breeding in the legume family.)
 
