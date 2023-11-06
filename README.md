@@ -21,11 +21,11 @@
 
 2016.06 ~ 2021.06：Ph.D. in Bioinformatics, School of Life Sciences, Fudan University, China
 
-2019.09 ~ 2020.10：China Scholarship Council (CSC) Joint Ph.D. Program, Department of Biology, Pennsylvania State University, USA
+2019.09 ~ 2020.10：Joint Ph.D. Program, Department of Biology, Pennsylvania State University, USA
 
 2012.06 ~ 2016.06：Bachelor of Science in Agriculture (*summa cum laude*), Northeast Forestry University, China
 
-2013.06 ~ 2014.01：CSC Joint Bachelor Program, Kangwon National University, South Korea.
+2013.06 ~ 2014.01：Joint Bachelor Program, Kangwon National University, South Korea.
 
 
 
