@@ -30,8 +30,9 @@
 
 
 ### Work Experience
+2024.07 ~ now: Postdoctoral Research Fellow, Yale University, USA.
 
-2023.05 ~ now: Postdoctoral Research Fellow, Harvard University, USA.
+2023.05 ~ 2024.07: Postdoctoral Research Fellow, Harvard University, USA.
 
 2022.10 ~ 2023.05: Professor (Special-term Professor Class A), Guizhou University, China
 
@@ -44,7 +45,7 @@ Biological big data mining; genomics, phylogenomics and comparative genomics; bi
 </p>
 
 
-### Publications (# Co-first author, * Corresponding author, ciatations=540, h-index=8)
+### Selected Publications (# Co-first author, * Corresponding author, ciatations=800, h-index=10)
 
 1. __ZHAO Y__, ZHANG R, JIANG K, QI J, HU Y, GUO J, ZHU R, ZHANG T, EGANA N, YI T-S, HUANG C-H, MA H 2021. Nuclear phylotranscriptomics/phylogenomics support numerous polyploidization events and hypotheses for the evolution of rhizobial nitrogen-fixing symbiosis in Fabaceae. **Molecular Plant** [J]. 2021, 14(5): 748-773 (First author, **IF= 21.949**, Cover story & Featured article, the study reported in dozens of domestic and international mainstream media such as Guangming Daily, People's Daily, China News, Science Daily, Phy.org, etc., Contribution: for the cover article, based on the transcriptome and genome, we constructed the largest phylogenetic relationship of Leguminosae to date. Phylogenetic relationships were resolved for five subfamilies, about 30 genome-wide replication events were identified, the evolutionary history of the nitrogen-fixing gene family was explored, and the important role of a new gene in nitrogen fixation was proposed, providing an important basis for germplasm conservation and breeding in the legume family.)
 
@@ -74,4 +75,4 @@ Biological big data mining; genomics, phylogenomics and comparative genomics; bi
 
 14. ZHENG Y, **ZHAO Y**, WU L, LIN J. Copy number variation and diversification of duplicates in *CaCA* gene family of *Capsella*. 2020. **Journal of Fudan University** (Natural Science) [J], 59, No.1:1-31. (In Chinese)
 
-15. HUANG J, XU W, ZHAI J, HU Y, GUO J, ZHANG C, **ZHAO Y**, ZHANG L, MARTINE C, MA H, HUANG C. 2023. Nuclear phylogeny and insights into whole genome duplications and reproductive development of Solanaceae plants. **Plant Communications[J]** DOI:https://doi.org/10.1016/j.xplc.2023.100595  (**IF=8.625**)  
+15. HUANG J, XU W, ZHAI J, HU Y, GUO J, ZHANG C, **ZHAO Y**, ZHANG L, MARTINE C, MA H, HUANG C. 2023. Nuclear phylogeny and insights into whole genome duplications and reproductive development of Solanaceae plants. **Plant Communications[J]** DOI:https://doi.org/10.1016/j.xplc.2023.100595  (**IF=8.625**)
