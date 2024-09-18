@@ -37,11 +37,10 @@
 Computational Biology and Bioinformatics Software Development, Genomics and Functional Genomics
 
 
-### Selected Publications 
+### Selected Publications (#Co-first author, *Corresponding author, Citations=821, H-index=10)
 
-(#Co-first author, *Corresponding author, Citations=821, H-index=10)
 
-[1] Yiyong Zhao, Rong Zhang, Kai-Wen Jiang, Ji Qi, Yi Hu, Jing Guo, Renbin Zhu, Taikui Zhang, Ashley N. Egan, Ting-Shuang Yi, Chien-Hsun Huang, and Hong Ma, Nuclear phylotranscriptomics and phylogenomics support numerous polyploidization events and hypotheses for the evolution of rhizobial nitrogen-fixing symbiosis in Fabaceae. **Molecular Plant**, 2021. 14(5): p. 748-773. (Cover story & Featured article, IF2021=21.949, reported in dozens of domestic and international mainstream media such as Guangming Daily, People's Daily, China News, Science Daily, Phy.org, etc., My contribution: for the cover article, based on the transcriptome and genome, I constructed the largest phylogenetic relationship of Leguminosae to date. Phylogenetic relationships were resolved for five subfamilies, about 30 genome-wide replication events were identified, the evolutionary history of the nitrogen-fixing gene family was explored, and the important role of a new gene in nitrogen fixation was proposed, providing an important basis for germplasm conservation and breeding in the legume family. (The full analyses presented in this article were conducted by me, drafted the original manuscript and made rebuttal.)
+[1] __Yiyong Zhao__, Rong Zhang, Kai-Wen Jiang, Ji Qi, Yi Hu, Jing Guo, Renbin Zhu, Taikui Zhang, Ashley N. Egan, Ting-Shuang Yi, Chien-Hsun Huang, and Hong Ma, Nuclear phylotranscriptomics and phylogenomics support numerous polyploidization events and hypotheses for the evolution of rhizobial nitrogen-fixing symbiosis in Fabaceae. **Molecular Plant**, 2021. 14(5): p. 748-773. (Cover story & Featured article, IF2021=21.949, reported in dozens of domestic and international mainstream media such as Guangming Daily, People's Daily, China News, Science Daily, Phy.org, etc., My contribution: for the cover article, based on the transcriptome and genome, I constructed the largest phylogenetic relationship of Leguminosae to date. Phylogenetic relationships were resolved for five subfamilies, about 30 genome-wide replication events were identified, the evolutionary history of the nitrogen-fixing gene family was explored, and the important role of a new gene in nitrogen fixation was proposed, providing an important basis for germplasm conservation and breeding in the legume family. (The full analyses presented in this article were conducted by me, drafted the original manuscript and made rebuttal.)
 
 
 
