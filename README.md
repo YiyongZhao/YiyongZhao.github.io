@@ -34,9 +34,8 @@
 
 
 ### Research Interests
-<p align = "justify">
 Computational Biology and Bioinformatics Software Development, Genomics and Functional Genomics
-</p>
+
 
 ### Selected Publications (\#Co-first author, \*Corresponding author, Citations=821, H-index=10)
 <p align = "justify">
