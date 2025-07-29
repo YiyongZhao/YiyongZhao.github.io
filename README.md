@@ -75,7 +75,10 @@ Computational Biology and Bioinformatics Software Development, Genomics and Func
 [18] Ye Zheng, __Yiyong Zhao__, Lihua Wu, Juan Lin. Study on copy number variation and differentiated expression pattern of CaCA family genes in Capsella. 2020. http://www.jns.fudan.edu.cn/#/digest?ArticleID=1178, **Chinese Journal of Fudan University (Natural Science)** [J], 59, No.1:1-31 (My contributions including the gene expression quantification and differential gene expressions analyses for RNA-seq data)
 
 [20] Lin Cheng#, Yanlin Hao#, Qunwei Han, Zhen Qiao, Mengge Li, Daliang Liu, Hao Yin, Tao Li, Wen Long, Shanshan Luo, Ya Gao, Zhihan Zhang, Houlin Yu, Xinhao Sun, __Yiyong Zhao\*__. The origin and evolution of orphan genes: a case study in tea plant family. bioRxiv 2024.02.01.578514; doi: https://doi.org/10.1101/2024.02.01.578514 (**Communications Biology**, IF2024=4.67). My contribution in conceptualization and supervision and handled revisions and rebuttals.)
+
 [21] __Yiyong Zhao__, Tao Li, Daliang Liu, Hao Yin, Liang Wang, Song Lu, Houlin Yu, Xinhao Sun, Taikui Zhang, Quanzhi Zhao*. The origins of cultivated rice and genomic signature of heterosis for yield traits in super-hybrid rice. **BMC Biology** 23, 153 (2025).
+
 [22] __Yiyong Zhao__, Wenyu Kuo, Jie Huang, Miao Sun, Yi Hu, Jing Guo, Pamela S. Soltis, Douglas E. Soltis, Hong Ma* and Chien-Hsun Huang*, Nuclear phylogenomics provide evidence to clarify key morphological evolution and whole genome duplication across rosids. **Journal of Integrative Plant Biology** 00: 1-27 (2025).
-[22] __Yiyong Zhao__, Himanshu Chintalapudi, Ziqian Xu, Weiqiang Liu, Yuxuan Hu, Ewa Grassin, Minsun Song, SoonGweon Hong, Luke P. Lee, Xianjun Dong. Evscope: A comprehensive bioinformatics pipeline for accurate and robust analysis of total RNA sequencing from extracellular vesicles. bioRxiv (2025): 2025.06.24.660984.
+
+[22] __Yiyong Zhao__, Himanshu Chintalapudi, Ziqian Xu, Weiqiang Liu, Yuxuan Hu, Ewa Grassin, Minsun Song, SoonGweon Hong, Luke P. Lee, Xianjun Dong. Evscope: A comprehensive bioinformatics pipeline for accurate and robust analysis of total RNA sequencing from extracellular vesicles. **bioRxiv** (2025): 2025.06.24.660984.
 
